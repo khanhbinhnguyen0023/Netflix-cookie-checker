@@ -28,3 +28,7 @@
 ## [Try colab-version](https://github.com/matheeshapathirana/Netflix-cookie-checker/tree/colab-version)
 # For any issues
 <a href="https://discord.gg/RSCdKeKB5X"><img src="https://discord.com/api/guilds/1121457935822901278/widget.png?style=banner2"></a>
+  git clone https://github.com/matheeshapathirana/Netflix-cookie-checker.git
+  cd Netflix-cookie-checker
+  pip install -r requirements.txt
+  
