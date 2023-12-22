@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1700903678",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEEVoU261tw_SVj7wV384CnqCYF9pgXwg9SSo31L1tjJpm8UNIusalfts50FPALovE1WCVUaoZuXUgfE-9E_e-OaJVn8J9REa8X-Udjt5AcNFHXKoYyubyxcV4MGAkJO5jnMulRp-SSpES86QcATq-XS0CkMf-O5rspF4CCmzhW9OEqPoUCYkxB224_XpTISuvbkmDFSZhfgTShMmnX1bAGr9pSMn-2Sk1N7dCytwL0SAbs1gxlnONEi_Lqj42fgFkC4fJ0QPnbILPj032QgauNsGiij2NUDFvKe6eLWI0uRLz9lbKKSwTc1OMlVAR5cEGEVpOWL5s07ceXVn1t81Infg42ASBwyejC3V_4h72iKlciJ-V6sEI_M2OlhxAzKDtBsCtE6vNCqF-2pzOiJgdLFrM-ycyTXHxh2-VC-hQ40VVhMd0tANaB0E4sY94TDOl4yTjk-DjtLpLndneF5fFZgnH6VjbF5XP-zdGeyL2j8lGBvSjtSX2F-70qb-sPRDFZXpzjhoazAu7etYLwD3QRv0Z2KVru_i4_ZFr6HBMKiMTy7HXgMa1mGw07vJLNGyRnoIacjbC2xDvDhF_sHtmT-fvaz8Kp1fJcJ62s34auftX2Sik67qe3ZbEnD32gPhT92Fs7tQ7wOxNzQ69AJjVBHdSHT7SkxRoWvg-crSimx-6nxffEofOXQvgGbccN88x9LJLTqEZkxeNk9VTrBuvHxXtIBaBcBvQYBs_8yL-NKQeGoU3uk5cJjo3tno3j2pLAeG31sJeSUAZlEjWuXmNkuLYjfOgT5hiH2okFN6HX7NzGzzX-fJCAcuvPh4QcU1m2m9%26bt%3Ddbl%26ch%3DAQEAEAABABRdR8MF_8pi0T9R8gylusVT4U8qPe7aKmg.%26v%3D2%26mac%3DAQEAEAABABQ8yUzrGZE2LeNtLXiLORZumLDbmEFxz68."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1700903678",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRPACTY-0ujI6KR3rCDy2wFzHkTnmlrE1U.%26dt%3D1669367679685"
+    },
+    {
+        "domain": ".top10.netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1706857043",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Thu+Feb+02+2023+12%3A27%3A23+GMT%2B0530+(India+Standard+Time)&version=6.26.0&hosts=&consentId=3f18d4fa-96b6-488f-acaa-73053dcb17fe&interactionCount=1&landingPath=https%3A%2F%2Ftop10.netflix.com%2Ftv-non-english&groups=C0001%3A1%2CC0002%3A1"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709880345",
+        "name": "_ga",
+        "value": "GA1.1.1903443493.1675320345"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709881043",
+        "name": "_ga_WL5QLTVPYN",
+        "value": "GS1.1.1675320345.1.1.1675321043.0.0.0"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726315227",
+        "name": "nfvdid",
+        "value": "BQFmAAEBED-SeWpdEpQFFKOocEUJ4g5gJDFIx0VMHoZaihjSo4ZVq5GHuiYNWzD0m7B8ATgqTYhr4tNfPvTXGASP6DAGJft3T7RgWd6GyioxrJcQPbhoy2X2aZNKqtYj_YLkDHkHo40FTLxqFAdDWjYq4qqEDDuj"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726315510",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEFcUAbA9BUYyiNo2sxkXEuSBwMWhP6zLJhNmkx-cQPiB56RMNOz3WUP8EWuM3rr8vJdf8p9t4bxxQoR8gQgD9c0ZZV6dDE1pDflvZWrL5wqwPttAPLpW6bUkKgRYer7p_PdR7Um7eL3Yd6FHlrN19OaIjmp8GWY59dd7Szpff8h4BT10yarUiMtdhmf0KoXKpTOOq0C7kAYWteVQywpB0SYi68Yrp1GxrkwlPHJR-t4mK_FqAvyze4bGsnX_FlQ2fMXtD9SJ9JBdY6K-F-_9yVEFv6OyhFA3oLOuAUfzLpztZksdoO6IIPos8ejfYAN8gdwn33b4lO2kNUsAaNbeloXea4LoGMtugFB6dCAS7NYk__BMVjR49wv_TX7IMFVX0Bcv3fxDtNqM0hM7lZOPWlPFqVEobGh2f393rwJTprXdtP-2VmbW3iS0iZ2mdv2Ry3q942Ewox3Vvhb4duSHGuDwo6_eiyXKpFdUdtdJz8-8Ucdn-JKqQkFsEdqqsIACndH53JpITSgO6GfiRUJ1b53q1oDxurdpgsSEVpRExxxofZGxifqYbJhMpbEtf0amSpMLg11JxmSWSthJ30Ya06IPzqv45V4kEBsE-1AQVFCueVQ.%26bt%3Ddbl%26ch%3DAQEAEAABABSYT7OcHgddx32W__EI75xjOf41qzI_kw4.%26mac%3DAQEAEAABABRqZb7k5wBqJm2UBv0fYjgODyE43up0N5E."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726315510",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQIEsvAun9d68_B4f24Qgf8Avfd2e2xmIo.%26dt%3D1694779508098"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726315926",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Fri+Sep+15+2023+19%3A12%3A06+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=905bbd68-9fe2-4d71-a240-e3ba2a200140&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710948018",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEKxFCrH3W9r1eViHDoor0QSBwKjjq7xUaDLDhAdpIWmlu0aSOMzkpYCr4wsvbVcgkF5UX-D_HHj87PICrAKqG4jWHi2F1d3ujKWNHfNyZPpGZEUHzypjuZF0pQatQJG8WyEMQ28vftuXLjz7w8Vos7Vg5LxLBjof4TiQPeYho_iUgYcL9_WnOyr9U3X9UY-A1QJZ5mUHgjvlQ3fMWkQRPnmD67-UitpvEdt04RbasbLIYuon1dtBQb7fKaWvGHGeG4T9Q9oLnxLunEW0y7ePA8Inx99PG7Pnbp5bZ711_7R5OZvUh5j9nxAIJgp9rv3V0gbbARPV4gZ39TUxDbLbKlHr8fncDzhYOwM-b8v2PXZPAAs6GgbJVOYPQkSSPJldnsx-cMnekBGuKBCC4vlAFe1GwvljBSODUyyxjjOKWXhB6lDtWiAgNPhSkahDdXSAlhO8W3devjxiWzDQnnOWgZOAfMnXf59-Bzj2UPCrubBv-hkC4RCmlehtyNWFLafawpT1ngmTozhRQ6htWVSj4BhXabzyxL33QqpXCj0tKa60u5vFYLn3nxA_-yp83HGtd2DrlOTbcUZiQNXGiPPq3UWG-RYx0WJLqebkLnDD3M_UuTU.%26bt%3Ddbl%26ch%3DAQEAEAABABSXEubSAmDJqzSgFE1hsR3nRYt1qIBJdhQ.%26mac%3DAQEAEAABABQzWKDbFKpw2ln18XLhod20tdTd_i0euLQ."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1685452465",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2022-05-30T15:14:25.932Z"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1710948020",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Wed+Mar+22+2023+00%3A20%3A20+GMT%2B0700+(Indochina+Time)&version=202301.1.0&geolocation=VN%3B35&isIABGlobal=false&hosts=&consentId=d8fbce0a-a2dd-4f56-b791-ecdde18e9649&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710948018",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRfXcBqKd2U-wm9YOkfMMKeYprtcoZM6JQ.%26dt%3D1679419185832"
+    },
+    {
+        "domain": "..netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "0",
+        "name": "cL",
+        "value": "1653323179492%7C165332317889100068%7C165332317850783260%7C%7C6%7Cnull"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1709549947",
+        "name": "memclid",
+        "value": "3d3c299b-7ebb-4195-9da6-b1f81021cd7d"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1684852032",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEPkfMXB-qxsB-KMA1kJ3fdhgdKQTaHhWb2AaCsRTfjpHTz-jsJbp_d9Jw14zEcbAheV0ZARu8fOd0zBcmGnjSdSKnk0eOn-fQnCtakZHS3omymw_tql5LGWNuN-d2Ha3tAcKp5MbHHXC-gcddMhOZdrk"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1679413822",
+        "name": "profilesNewSession",
+        "value": "0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1679422826",
+        "name": "flwssn",
+        "value": "d2c56021-1615-4b43-a2d3-8ba04a9d0e78"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1687188026",
+        "name": "netflix-sans-bold-3-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1687188026",
+        "name": "netflix-sans-normal-3-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1687188026",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    }
+]

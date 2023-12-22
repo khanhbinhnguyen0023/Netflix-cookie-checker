@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEGZlPdcFUe_sKnM2frhpPu-BwJHFOw29kqTQtWd7aACi_tgPZyl3M8uLPWGkRzPH9rFhGn5b_1HuSrhlSXQENkFLiwk5YyQW8estA98-I9rve7P-1Bwwp2Ghl-P4oWKNrqys9Djf67NkViY_GOtVBC_EkMMLsTdG6Jn3-jssUY8MwpiZGb9o7By4Mx80EePteE3ovALFkBI_wvHA559h7WpEgS_cXStCPJdXO7RGqUWnM0DCz2n_KBSrkWqD4nnBAHOrmIqaN4FcTjpDmuGQM50qNpgr9SREKmwbaC1hNvX3nnrJJZJRUN1d8W6JU8FJJd6aLlK5mqezDuasb-gzRjHIJQnD_gHu9Bg95p3nPHYzNwdxtAFOTEScsqc_kb5HNkrL4NwaFXe_LMsrWeTt-8ATr68yGzYZAuvqQeEYWSP26bHe1vBAQYApl_QaDFxzbamg065A79P6hpIJrRfxU8jlwP4TBiwqr5C2wzkajm5CS7D1ZW4GdrspNYDr3077t8lFcQ4--nAbAIpOP7xePnNGAEhGNKdPLfzCJQxU-bJZHXfy-Aoy2lQ-jdjQST6ncQlUKVkRN70qTpIzw4DJZKnO1r90W_EJcrqR8QCtjOLAKzY.%26bt%3Ddbl%26ch%3DAQEAEAABABRo4RRnAKDBtJuRHkMssV3zT88qStBWq3A.%26mac%3DAQEAEAABABSjK4ujdsbO0obMVsOHhUQmwoLpJMkryOk."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Wed+Mar+29+2023+23%3A41%3A11+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=666e1a59-74da-445c-995d-511b8af7fd19&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABT_jCtEREoyO5aLSyXvik_FLK59s1EHVAU.%26dt%3D1680122469306"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEJaoSyKnybSZeR5GYpCvSxtgJhRtmtymJnzJ4D_m4BU-pkt-HojWW03kpGbiXRTqHZL9wjEC6Hz4AgSJ1uoigyKiydb1xUsqairkNzkWA7eRwaYN0tOapPi0_PvkV5Nn4iXLBkulqJkLpeWYMjZDlJ0N"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "0",
+        "name": "clSharedContext",
+        "value": "62b5009b-d3b5-49bd-af5b-43ea65e9ca2a"
+    },
+    {
+        "domain": "..netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "0",
+        "name": "cL",
+        "value": "1626294355838%7C162629434535748584%7C162629434528156209%7C%7C4%7Cnull"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1685380563",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2022-05-29T19:16:03.976Z"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1690099041",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEFPlFZWjPcfODL2OI2X-kptgnFJUosgaITYcfW1zqiyHfpA4Xnsr0JlIvYdMkl1om2pJdGoGTMeV_TP8J0STAs-ip5xtY0Kc5LrDPhA-R8JZnBFLZG8AM6nyt3w8pzTRmWteCdz1jXxDQNl6ijPV3F0p"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1700241829",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEP_ps8c4JlEx1PysH8XCkD-CcMSZz1QJEZnGthInehxzC5vWoblV3WSEmaOFUFMnu2vwMfcTo-vffsxgASr9-zoo0_Tpp_eQlqulS77rNft5SZGXl-JndSegRqP8iuMzb5XIFXD70d9Cz46DqTX0p-aF7LHMbtLJTIxLy69ntedxaR5GTc5aUXE5r_y6n4uLjtcOeHNsiYJsEczJkIyKkN2I_mxkGcVdch6kSsNprf4XSQDOqWMIyWDoHk8qs-aOK9J7ItAL5amRMQnVvcV8c2K_bhDdjnYjfDzuInq4qvprPdG5VM_ec0hrKMsWwR7GecDj2rQFlWBLpS52Ha6T_iym1ydrMsscPvebP8IL9A0ZYvMcGom51fJyGpda_cX7rSxF375mDk0vGksH63yblWTgPy20inwoA0FiLA1iru1DGblNoyQ0QUnpAyT8uFeUZGCvOd7R2XPlcrY5G3sK1evPpKpbV-zkSfDpWnItawLDgKDhAtPb0mRlbTdoZEFUUZ26yPmfd7g6O94GAomuXEWnR0uGvUEvx6kr0JBOvTFfEn6n0df0hbGcreuftcELD342yufM3WMJiBSuu_oacRtsd6aVwUtOKbzLkJFr0Jy_92Rd7VOkzcnLa10QD43sPEMIkIDh0fH83QAUUzzOFNtrld9QWF4iq-sQNT_vPCBIHnn2kLH9MG0XrOSn4NTRPP2XEzcE9OCvZeQByBqj0qEvH2gfwH57Bl6YCC4Y2FBQ8q163t1QKpLeIOd0b4rXM34ljfZ2j18hT_nDG_oQaIjF5b0wlavcXcq3m6bj1uPWlGRkYJPZrKAbRfpooN9KvoajNz8iCiyyTkvXi7PzAWFScQ..%26bt%3Ddbl%26ch%3DAQEAEAABABT35zZb8RDBIutAImPOOR8trNNmybh2NTU.%26v%3D2%26mac%3DAQEAEAABABTzzlAGJ-lqrwhCBHOk7bDY_CRvFXpLdxQ."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1700241829",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRS0RhkyN9cl7nkUfVFtMptC2ZlAHZ8xNk.%26dt%3D1668713029516"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1700241839",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Thu+Nov+17+2022+21%3A23%3A59+GMT%2B0200+(Eastern+European+Standard+Time)&version=6.6.0&consentId=dea8c815-27d2-4f6d-b187-0d9a51c68655&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH52%3A1%2CH48%3A1%2CH49%3A1&AwaitingReconsent=false&geolocation=LT%3BVL"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1703265836",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1676481839",
+        "name": "hasSeenCookieDisclosure",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1676481839",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1700241870",
+        "name": "memclid",
+        "value": "051bfe87-4e53-4b8b-a135-d85d075cd9a0"
+    }
+]

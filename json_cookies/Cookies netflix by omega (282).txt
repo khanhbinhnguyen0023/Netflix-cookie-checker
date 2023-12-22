@@ -1,0 +1,101 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "17158040942753998",
+        "name": "clSharedContext",
+        "value": "9d26512f-7686-432b-af4c-90946e5013e0"
+    },
+    {
+        "domain": "..netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "17158040942759077",
+        "name": "cL",
+        "value": "1623668126591%7C162366811995479803%7C162366811947305334%7C%7C4%7Cnull"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1681426316",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2022-04-13T22:51:56.686Z"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1693774416",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEFeo7ycEHcwTR91wBm268WlgHuW8q6qGZFd0vk100I7iEKOYQ2IqkCIARDeUoz9iAWBNK7Xitqjo_iwggllcGqU_xu_7B8eokPA497DWl0suVRFPnkX-WOE42UKBJGMjCYvtH_b4gCVU4gy_eDoeq0xx"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709554779",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEDLqqdIGllKVQnmJJqdMCd-CYBpzNwoVG9T2ECPnmocRr83kw0QpmTtHXZ2WASt3DvA6M4cZ_ESZiD2FGGykEHDDABvYsLVSXYOzpLHgAQAlI3cv7XJwfsbVnXXvGT0FndXlEPATY1Jju_1yEHyCBCgZHtrZxcJ4e5xgAVnpL1Lk4K4Jd0ljg7h2TUESWb_znVUSpjKHVucCJvJPHIfAmNFUJaDbMD2felL8oXthFULUItaWxkPtE6R7EYLAPF57BcndWQqATdsYTs3gf7b7It_Qlads2IBTRroq92LUC-OvnVMm6SCAeKhGrfqcCeAota7JPiKbQwCK3i_upd56clcGvtTQdnrGoGPeov-bJGIFmTNUkW91ayDyShotIF3CeMD6OKLxJPMT_LyWlCDvsGt0aXa_mFxpLbwhVb7qKEEmMV_Dsc4W9nESd3GVvFXqH4yZq3Ydi6kHjUOyxOf5R0FWPMoQW3FYFrBUZRUiCt8-puiX1m6bzRafbQVaWnVWSopuFaf6xTvJKlvWtiz8UB54FlMTzUE_0upl8gp-icIcK-lhLoU3K2N_RVsy7aVwmbmEzkRE49bKCmzRB5Ywzz7Zfw1noX8oI2BOkA4i6ZPwE2J_ub6sC84hjo13H1AuvoYgERA79Cn8n55dp99fyHbgYKZwRGlvP8qYo90FTbyick66XHWVMK-pTy0FdHXUc58VM84p5RTvCguwyt8npOVb7PGaL2n90CTA1CmB1IbSkpUGPPr6Xc7L12x-erCpbFe8alTAje9XoEbIc_yyH1ZlhHBs2MVSdswFrKzknlqq-3mqT7TwV79dPCJNumkNnfB_%26bt%3Ddbl%26ch%3DAQEAEAABABS505WN9RyEbQJ03nmB3qmQ9PU2SLbth5Q.%26v%3D2%26mac%3DAQEAEAABABRV44emup1Zo3VeOU9FqCUZwl5aELNsUuU."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709554783",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sun+Mar+05+2023+13%3A19%3A43+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202301.1.0&consentId=cf74cd4e-ac1b-4a0b-a36f-b9b0d8c2a103&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&geolocation=ES%3BCT&AwaitingReconsent=false&isGpcEnabled=0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709554779",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABS7eflAAK5Qv4GZy9mdDqqXii9yj2WfWiY.%26dt%3D1678018787299"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1712578780",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1678029580",
+        "name": "flwssn",
+        "value": "f27afeda-aefc-4479-8bf1-8d4ccf5d4570"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1678023053",
+        "name": "profilesNewSession",
+        "value": "0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709557287",
+        "name": "memclid",
+        "value": "e0e73b03-529d-4c9c-8b40-7cc181e25876"
+    }
+]

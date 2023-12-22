@@ -1,0 +1,20 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710491304",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEEzMf60jip4ZF4rV2XTt4GuCYOP3_Xc44bbBTlU8FKdilEkaV-f-MXJFTKPgPtR_20EW5GoONDJ6lFnTglxhq7vDHPLp35WjXwwjgGgqOTo1eg5KigGKXrrARJZQS8XMnn3y2KpUW0fV3zKO0-8qK0LB3b7BFQcAOwCzZseYm5ZpmLVnXnxdcSQCVlQQYQiiAYQEB7mL_fRQFhpWIMA8Nj90vGvLMyFCRKB9gaKXcM7o5Jn-frFDwcY_ZBG4tEng5OjYsiUM6pJbIqvrHpX9pqcv2xUFB6NjNzw3CoR9GQOjojdEOJZKRx7lco-m3w1abXodeQGE5IlHx0h_1rqXqeYABkQCLHXdzoWBwy8eEd36Hmg8g2o_cOdQCXp2j5PwrQw8ytnNicq59GKk_wqkYUrB46IR_2v_PBp0K1nJRUDpdz-n8OnXOpSG_SgsHvO7683rV-YrP8vTMC9tvcj-YtIAIV8xSi8jlAhMe5mInisxCeDihQMGVR9kcM_M5KJkG1RfhC_8jRrPls22WjwyoDzqcEhVNXeWRRhz1xA1c4fLjCM2G6PxiK0oH7-FHRy5jwjUSHe9VNygvKFD8kIJyo1vgkvRo7ucpS016x1izYk2QufwF5Ds788C0LZ9aqV6-RBBMFCbaGSt7nd4hE5U6vxi321e5jjnl_6MdwfC6ok2DyNMnPHENrMkLMSF1HI9DnRRPoY06VhxRXRfrEIwMP3uGteZfFcW0cOiVsMpwsLTW2CTol7gndC_ucDF0JB17OO7g_t7tarN7yhbECFR7hKkZRYcvj8ZogYqBY9S0fv9qKLwC_e62m91RRDz_t5Jtevs%26bt%3Ddbl%26ch%3DAQEAEAABABSUE1SkrgiHCkFTXZgRzBjeU0pGaAHblfo.%26v%3D2%26mac%3DAQEAEAABABQseariBIlspHYZgwMZuX5UYdcpZsFT6W4."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710491304",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSDZWhOqVGvOzsJXFQR1jDQs-UP--8tMIU.%26dt%3D1678955305416"
+    }
+]

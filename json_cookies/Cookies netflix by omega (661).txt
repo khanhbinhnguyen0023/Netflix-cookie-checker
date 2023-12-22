@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1712651821",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEMFZE2VcJ4AOSpfF72WxMAGB0CT6hozgwN-HyFmxl9e_Dq95nAB_u2veFC9StSdJX5Z_LZO5qBMuuiELP0YBp09jwi11dGgRYz9Cv-hU87JLylLLz98UD99Jq0dFU64FBmepo38KMQK7N-f2Ti0pCSPLlzBoVdruGb5eUopdlFHyC1kvrdoj19KMQy6uIJlnr48uErYMwYAhO71u3zGVmEmlmbvCm0jdup_zERcDI7YhyTJ5zKJEdERYD-SvsqoDVsOymHWj6pDP0qsDTpAzd9H4anRRWYylLD1qUi24mXZQ16D6mpe0lSAHakJ-OvbiCS0tHoZKecN_eGDiUuPcaThe5ln8V6xJ7_8OEXmUpnVCdufF_d8SJCIRbAzyu0QhebHzyqS5Jc9Fe-tcyVQHWPvnZ13y62I77dXZzM5Gj7T2IYScXU994EljTpMxkohJL-5O0l1hQy2-jvcbXu4qT7FTEBUioLwshvFG44JuvEfCvzmrqYCEfzK8g26l0Wnu08DF9AFei0WqtfdCQqu_5rTU4q_8E6ATbjngTbB8X5NPwKqnLX7TeaDBEBzk0-EOdUNDsmeiCNVFWxpQyNLp3BkPCz7qwj4s20WCBIf_Lc-10Ql-1sC61EKbv97gBsSzwrGV%26bt%3Ddbl%26ch%3DAQEAEAABABSkXzmGWNmFwGRqBLeoZj1MYtAhwfd6BVQ.%26mac%3DAQEAEAABABRLl1Htr0vlBmH1Eddq4l8X7D1xF7K5mqA."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1712651839",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Mon+Apr+10+2023+18%3A37%3A19+GMT%2B0800+(China+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=880a297c-c180-4186-8340-614a9fdc4f8e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1712651821",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTsqRmjtcDurSjZOTf58T1LUwCqEBfOI_I.%26dt%3D1681122944804"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1712651821",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEKHcbGw_gpwfJfar-d0KJPlgFffTIDWC54QVdBF2o7XBs94HzAi2tT4sIAbCWMYmTxV_LdSI6yObbKhyjAEzVKIiA-jj7NjrcRjRRTFJpdx_9gTbAYyOH11gpfivrqJgf-99QlPKi3jarsL9i8tkhyi9"
+    }
+]

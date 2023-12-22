@@ -1,0 +1,56 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1709931134",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEIfLd9cpaSSbhROX-8qijNtgXywwNoXbv25jUv_3xQyqKGPt6rdl_E5gOO7y2Cnv24lW8nhHqPwqMmDRm1sgO_S-2iwpkRYEbTrbHbb0C27fp244PPgGFi7eIb2QVyWSngivvUCSSaTNukq9rmAHXuXx"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710189511",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEJ7Btd3GLzdQ0Ws6KyZzDgKCIC3rS17GAKvTFvNzdomRUxr2WR6rlxrMW1a6nxGfeFkJXCAnAzNZI5GJoWQRcZUPTaqK7bVF9NrrNRqcGu1WLuQXYd3heyHNsn3Z4aiwm1AVG-fUo7MJq4DCJdA_nRfHsFw3RVGqvRSHCKA4ucNuIU1OLGuYC2BEoUwUnFoYRYU1dAorcQTknvI11e0dm1-mmSwk9aZn_-02FeNvaF-LPGoJlvjmvWR3NGWvLivLZo4NQdVC3Kr4CH7olThrq661V10IgYtTEhcBy4Gn02ZmXs00AVxiKxvj4PSjxYq5d7CJ8sdhoh_1j8eYs1gorCAxmUzhkLXGE-kt0ljepJxu1KKIg3aqhc3Kdw0tlAeHjbblRwPUKvEgUU3ESP8O6Mk7n_gLc-ZsVI9bOSfboqSHaXaK4yph8Xn_NFF4u1ZtSyulAfk9_MF8gGiOK8bhR8wTwM0wl6UsbY31MiK40mzKwXvkGh5COmlymh1oir7gOJwgWcFJUse9YlCI7KOxa1d5GW9_Kg6CBLUc3ClgMRAjtyABNvsuArU0JhbzTYc6Lohqrx1nVyz2D2-CO701q_BS7GZftPJL4YVYs1G3IjyPpJGjXAUoUrcJKCbh9aIHTR0dTz-2KZXeRI7NeEFmsbTiamkx50qtdYiSM8UWOmux77z8obOQH24LF-ena1Y4hkzV8l4X2kWlaxzX5wWigjU5MGTaRwo5-UD45IDbLJZDZ-Q.%26bt%3Ddbl%26ch%3DAQEAEAABABQhvEjGjtynYi31WMJ3CEBPLGMy0Ihb0pM.%26v%3D2%26mac%3DAQEAEAABABQ1Z0jLVIBdb-DdULAacmGbzkmBJL0vOb4."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710189511",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSIcCBgChq-e_6jzP3uXAdbTOEz1mrExf0.%26dt%3D1678653513900"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710189560",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sun+Mar+12+2023+17%3A39%3A20+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=b8919739-5c69-4fd5-a5e4-f791ad80a9d8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1686429559",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710189623",
+        "name": "memclid",
+        "value": "af564364-2d82-4301-b950-2979f763d978"
+    }
+]

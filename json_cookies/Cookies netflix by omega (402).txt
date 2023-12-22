@@ -1,0 +1,56 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1717072605",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1704235736",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEMzT31vZ-WGX1iqWPwuFtGNgwTZ94_toPKrUsmYTbhDrzh5oF6uE2N9_t7txQyj_2K1LAB39vwIPGtIrxNUOFtI2OiVOuB5bkG55jBfWpLL4A5Y4zJ2-IDD6LYwBwAnnJ2pMUu-1qdepfywAu4xgh6hO"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1706649741",
+        "name": "memclid",
+        "value": "9b67f31f-a4be-459c-a677-95e96f71e3e2"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1717973188",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sun+Jun+11+2023+00%3A46%3A28+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202301.1.0&consentId=e6124a1c-0aba-4130-9a35-22b5f4a1463f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&geolocation=BE%3BWAL&isGpcEnabled=0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1718556478",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQJfIc9gum75_3IkBZaAQ8ZgU_Q_Iraj2o.%26dt%3D1687020478749"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1718556478",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEKsgbEIjVDtwYpllHjesquGCYMliOMZgrteym1ym-2m_17ENa8cLPRNOc-SpKvvUm0E8rDbKnaeL0JyeDWLCjJ6eFToARKOMjbDY8_8io0GvJ1uM_wTNYLcgdVMBvaQvTO0dTbWRFRTY0I8h0z2rNAitoh8EDsC2FVOnn5WtdjF8q-zDboOI25WNn7lwzpLbCGeaM_kiz0JHoti2BP4ryh1c9ICE3YScvcLvMryCpdzEuPJuO8KMBaLgDG8U5N9bS936Cf0nYg3qfadcL4mSH46PkNS1PMkBAezwvFG7nyQotI6Ov1YLDugn0EIPd5ygifKzZ9VXT25Roj3vZwB9SBVtvSJtgOyRGtQV2xxec6-49Q86kBAZs-tmRpH1VE1nhM-SfwbLP__dhXetl6wPLn3IUPK0A3AbyIH0nEOEuFvUmCF4ftfqhV2Vn55OPLymVmcSDtdQ8dmDfVvIP9VAeyPDKOQezQYsYSFR6ybAMZ2Pi0VNq-R9NN4jLWdrLGNW5oeCVjtumpoIl-IwMNWumO92SxCQDytLegGn5QqXCDrzVz_LFbCDgSwaODZsyLMj1IbeHx0pa3x1qnu1sjgDyJCv-ZTMAPvLNJIwK1JuMafvh7LaRK4GPqevbPp0BZ4pgmlhfj-nEN0vTC65AAqCYpHcMn-dxqvnImirYvbC5nolcYX9Jus7F2QpW4mYT8Saih8z69oKKKJfXCnGynf78LHPiRw0UBjmjvhuKEVlDLQoOMYyEQd9WUx6AxxCm90Pbza_WL69jPXy3ZjYcGC38ekIrvHaR1o587k0vzQ8fQhGdcbnIgYfNn1lr3WiQJYDIIlM%26bt%3Ddbl%26ch%3DAQEAEAABABQBzcN0kgOrShZSBqEmlQuQfTWxZ3ci4vw.%26v%3D2%26mac%3DAQEAEAABABS5_xy_Ndzto0vvtGdapQzaNLCgVj7KFbE."
+    }
+]

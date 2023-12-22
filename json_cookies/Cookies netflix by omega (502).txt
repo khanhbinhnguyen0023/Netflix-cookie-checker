@@ -1,0 +1,155 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1717473247",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEBTXn9aKuZmHuDa87Gm-nRlghNeupKk9hqqnxpUxCumft4jVCJEUka2zGccos1tb8ZQZCIrXmRz3QalsgtAjaJ7i1Yb0oHSac4aG6SlTVRtCnv3FwwJcbUMn3b3IrfWkTp3juPs1dv9_N2cHeOqK_zoC"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1721442398",
+        "name": "__gpi",
+        "value": "UID=00000c6b299c9eb8:T=1687746398:RT=1687746398:S=ALNI_MazAnq7HQWyQr6DnFBf6GjyPjK3kg"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1721615199",
+        "name": "__qca",
+        "value": "P0-2018903691-1687746395892"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1722306402",
+        "name": "_ga",
+        "value": "GA1.1.470499079.1687746395"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1719282394",
+        "name": "_sharedid",
+        "value": "705f04ee-a374-4221-a4f0-997c0ee86bec"
+    },
+    {
+        "domain": "..ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1721442398",
+        "name": "addtl_consent",
+        "value": "1~39.4.3.9.6.9.13.6.4.15.9.5.2.11.1.7.1.3.2.10.3.5.4.21.4.6.9.7.10.2.9.2.18.7.20.5.20.6.5.1.4.11.29.4.14.4.5.3.10.6.2.9.6.6.9.4.4.29.4.5.3.1.6.2.2.17.1.17.10.9.1.8.6.2.8.3.4.146.8.42.15.1.14.3.1.18.25.3.7.25.5.18.9.7.41.2.4.18.21.3.4.2.7.6.5.2.14.18.7.3.2.2.8.20.8.8.6.3.10.4.20.2.13.4.6.4.11.1.3.22.16.2.6.8.2.4.11.6.5.33.11.8.1.10.28.12.1.3.21.2.7.6.1.9.30.17.4.9.15.8.7.3.6.6.7.2.4.1.7.12.13.22.13.2.12.2.10.1.4.15.2.4.9.4.5.4.7.13.5.15.4.13.4.14.10.15.2.5.6.2.2.1.2.14.7.4.8.2.9.10.18.12.13.2.18.1.1.3.1.1.9.25.4.1.19.8.4.5.3.5.4.8.4.2.2.2.14.2.13.4.2.6.9.6.3.2.2.3.5.2.3.6.10.11.6.3.16.3.11.3.1.2.3.9.19.11.15.3.10.7.6.4.3.4.6.3.3.3.3.1.1.1.6.11.3.1.1.11.6.1.10.5.2.6.3.2.2.4.3.2.2.7.15.7.14.1.3.3.4.5.4.3.2.2.5.4.1.1.2.9.1.6.9.1.5.2.1.7.10.11.1.3.1.1.2.1.3.2.6.1.12.5.3.1.3.1.1.2.2.7.7.1.4.1.2.6.1.2.1.1.3.1.1.4.1.1.2.1.8.1.7.4.3.2.1.3.5.3.9.6.1.15.10.28.1.2.2.12.3.4.1.6.3.4.7.1.3.1.1.3.1.5.3.1.3.4.1.1.4.2.1.2.1.2.2.2.4.2.1.2.2.2.4.1.1.1.2.2.1.1.1.1.2.1.1.1.2.2.1.1.2.1.2.1.7.1.2.1.1.1.2.1.1.1.1.2.1.1.3.2.1.1.8.1.1.6.2.1.6.2.3.2.1.1.1.2.2.3.1.1.4.1.1.2.2.1.1.4.3.1.2.2.1.2.1.2.3.1.1.2.4.1.1.1.5.1.3.6.3.1.5.2.3.4.1.2.3.1.4.2.1.2.2.2.1.1.1.1.1.1.11.1.3.1.1.2.2.5.2.3.3.5.1.1.1.4.2.1.1.2.5.1.9.4.1.1.3.1.7.1.4.5.1.7.2.1.1.1.2.1.1.1.4.2.1.12.1.1.3.1.2.2.3.1.2.1.1.1.2.1.1.2.1.1.1.1.2.4.1.5.1.2.4.3.8.2.2.9.7.2.2.1.2.1.4.6.1.1.6.1.1.2.6.3.1.2.201.300.100"
+    },
+    {
+        "domain": "..ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1721442398",
+        "name": "euconsent-v2",
+        "value": "CPt-FIAPt-FIAAKAvAENDFCsAP_AAH_AABpYJbtX_H__bW9r8f5_aft0eY1P9_j77uQzDhfNk-4F3L_W_JwX52E7NF36tq4KmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMRO2dYGF5umxtjeQKY5_p_d3fx2D-t_dv-39z3z81Xn3dZf-_0-PCdU5_9Dfn9fRfb-9IL9_78v8v8_9_rk2_eX_3_79_7_H9-f_84JcAEmGrcQBdmUODNoGEUCIEYVhARQKACCgGFogIAHBwU7IwCfWESAFAKAIwIgQ4AoyIBAAAJAEhEAEgRYIAAABAIAAQAIBEIAGBgEFABYCAQAAgOgYohQACBIQJEREQpgQFQJBAS2VCCUF0hphAFWWAFAIjYKABEEgIrAAEBYOAYIkBKxYIEmINogAGAFAKJUK1FJ6aAhYzMAAAA.f_gAAAAAAAAA"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1719282402",
+        "name": "trc_cookie_storage",
+        "value": "taboola%2520global%253Auser-id%3Df0cb4e54-f7d7-4eaa-a630-8fb56609ea9f-tuctb4bd7b4"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1721442398",
+        "name": "__gads",
+        "value": "ID=00ecc88437eba81a-22ab0000fbe100cb:T=1687746398:RT=1687746402:S=ALNI_MY9swUaSTCK-T_iK0jVSTSmBMrmEg"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1719282407",
+        "name": "_tfpvi",
+        "value": "YTFmODRlODEtMTkzMi00YjljLTlkYjYtNzI4NTZkZmE2NzgxIy00LTk%3D"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1721442415",
+        "name": "cto_bundle",
+        "value": "yTE85V9FMFhBSEhySkpEMEQlMkJGWWtRMWR3SklvSGNhT2V0SkFpdXVIS0hXZnAzVXNtaCUyQk9CRTk4RTZybiUyQlBtOTI4b0RGc0xZTUkzMURndGZaVVA0a2ZjUFd4JTJCNjNEREJqZ2YyeU1ZNTBqUEEzUmFYUE0xbUdYZTRwRSUyRiUyQjU2ZyUyRmhYZUxMMTdEQjlPRjVydzZGQ2NLbDVBUDY1Z2hqbEZRdGRneEp2a0VPJTJGMkElMkI5Sk0lM0Q"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1722306497",
+        "name": "_ga_B99732XEZ5",
+        "value": "GS1.1.1687746395.1.1.1687746497.0.0.0"
+    },
+    {
+        "domain": ".ennetflix.com.ar",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1722306497",
+        "name": "_ga_YQW5BQ36ME",
+        "value": "GS1.1.1687746394.1.1.1687746497.0.0.0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726286712",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEN6pjynh1AYFijAO88velIeCUJDM154RULwE7jINrCogifzacj6tuaIklp5dZX1_sHPo7rYJZk1qcoSjayPUCjflMltAe40VnbiyVQQZWB6FDCs12Q1skE2ilQJ0TC80_q8b-RiauJPaJ8I0XUrIMe4qtoqy2HLyxUJQcU4XI6aiwxrbDSF0LcyXVoFVAVJWz9Z-PVJH2ODH7kkTYltxpL0clJ4LmCfAlkew7Q1fP2zXX585x82VrgzlXtYHcRg73kf5yMSvTqYGLHZ7ch6lXzQLS3ikbFqYzs-JyGh9I5VA_OnhR0LMae_NK4Pv0ZJWhr4AQQVDvZU3w-jMLNumyaY0zWclyag0WDVwIiVaGVj5IOOJXt_Fvwf4b5lxW5Sr7O2x3naxo_uxL1OV-vTnWZieLsbOdjsjn5ouxAzKfZ_iF3cdOSitiBDKwKpOzDVQdHLor_nv8j-7zNFoRRaKIhn2JdTvPQ1uMqeynIyGo-K1hVDLs3KjZ2M63Qap8JxGizDfjPuu22zGDl6Zg3WGtuTftFEzXd3F9rFqoR9fyz39iOywwkGEzx9Z_BLlXXRaTowDQxARBezkMwgeMFwde9IZIp20qpxfN7vcvWEdfWckjMRf9_e1ODdkADJqR2H2bxwiEd9pCMcFjd246XG92sV3g_OXjMw5Y9uoszuGvOI4gjWywHWhRv2lCjPhKiRbwPUOCmJjYXGUZFPBM7s5D_XELKZxQTDaA-IjDAridLGpbojJP79mEYQkZTSGBqkyCwv-gxBF3J-d8LeQX5dIZhSTjgWS4BkV_F8jeQVvBDlvjdo.%26bt%3Ddbl%26ch%3DAQEAEAABABTmU0JWMf0sGp0D2DRk2ygesxn4QZEjBds.%26v%3D2%26mac%3DAQEAEAABABT89J87VaGrdbATq80FBCGDAVCiP-4G8YI."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726286720",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Fri+Sep+15+2023+00%3A05%3A20+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=5395392a-358f-4afa-bbff-f1d196ab6c80&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726286712",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRy6H56ezc_MvaE0r01F9OAC-MvVFTmDeU.%26dt%3D1694750713659"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1702526719",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    }
+]

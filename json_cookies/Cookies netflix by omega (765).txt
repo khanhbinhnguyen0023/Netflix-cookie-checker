@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1713109791",
+        "name": "nfvdid",
+        "value": "BQFmAAEBED20dNlJHXw-ZSjwiaMc7HBgT_43T8jir1NylKKAX3z3wlMoHCCgqYyBYfGKom_t2PRZiAWz0915vW0lwF2drEsSsUbLxaM8gpunBoA7ZgUwoFVZbzzm9kat6cIgIY3R0lJEw1ksiYv467YyDJWb-w0X"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1713312436",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBELi7EbwR2-wuE1bWaU5iDeCCIO9GvtcmbI7R4zElv8fpbS5qlR2Jg1ATWr_zjz8vMd9s_t1TFmp2O7wTlehaMWLOB3V4p4Gu392Aea0HtPTMbHf47SxZF0Z1sWdZbtQhLOP6XMDfafTWTwB4yjaiLHe4AW_KboVGcypeHRgM0cJLWL4vYXk0r_PrKT3G6KsXLISolZyb-cZho8cslGTz1X17Kf6v2vNR7q-xiOwM5Ts40sKOHgIiUE6hS_Drn2lFZc8LS9HZ9lq9tsIzuBo535Foxn7Xiw64lAC4w_86rrJa1XfeMK1fTm4uKmyoJHEMOPo0Cg_OSxR8yDpFKVuCMSDS-K-6Pd7RiYODY73LLLF2vvvBQNWz90CyY6CCAoJ92HUadICvDffpbA3RzBeMfuxZ-nvYh5UY_FrdLi-ijQ9rJQJhwHNqmerYFjwomYQX4HyXT8eAxFMU7vTUD9MDr-OCClIu2GgxgHxBdbzbQisAlskBYGHHO_3S3MK0yNqDyDUXpeYX6rX-UqSA4En_VG_Uq-wO-y4-LPg0PHzmzYN1qK9e9nlV56pVgswVKMMFQ8uc6Ydp7yTEC2rsnqIuC5exunVgwy0VWy3mgEAIoG686OqaGdSvQSWjueukOrXDxUntdEcFtl6WmWcRc0oUxjbA-ToapbkDWp9IWVg2oztN2dRKJHdBjObcXjjmjwD3fEr4GbESbRb2r74eRMDdtTsUkh-z5C4V6WsjH3yeRZRWbVU.%26bt%3Ddbl%26ch%3DAQEAEAABABQl-yIiPAP5V59yBSQ_JCnPqQjxZ0LcxDo.%26v%3D2%26mac%3DAQEAEAABABQrcvsjZV8emQOOxtZkNWKi3cFeVOmKJOk."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1713312436",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSzSCpS2HWjMeFnx9VbNKOJKWhOs44f0Ck.%26dt%3D1681783637639"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1713312760",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Mon+Apr+17+2023+19%3A12%3A40+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=c29aef9a-106c-4c12-bed0-ed0f72512aff&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

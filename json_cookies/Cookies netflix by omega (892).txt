@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEGL4fB_cljCaAIu9M6zi7WFga8KryGRn62HvNPeaHJjNcxA-1Xw2IY4vmLjuTsNCkco0D1Nq_78rF7JKKoMQuAcIRl7fTExolKH3Q305Jb2e4ddU0i8bNqauTzOUTnGJFscS7ZA5qhahYcczPm4HI5Kv"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEOIqsR1dxBjmqUn3eO3jIE6CUPM_8P_-7rCVHIT_yrAR-Wu2PxRkcdPCFFEEVLZuMABBD4DEKSMX3Qk6tpvrBN5hbnxxkfpaJEauezL4jRWeeDNQjJw_3uiGI0YJzu87gBlFiMBqLjxpqyMSf6utb0u_Xsgz9S-tESUASXzGTRECDTUOpUUMS74K9c5mYxnJPEDbxgHk9MzUfDibt_U-2FCAZlMh9Lrro7jnKcV-sRCXmkCGCHF3s_xf6qYQuXs0drSUcQzNWKjYfevU5NifG6SUCvORYusoVyYsJedfbfmK0RQlgvlauyCC9qIwqC_L3aTLUhBct0N1TKzV2XcWuOfkT4duCyiZjPsi7XsKbRzyq9MvyNEORRuUpiMorKfr8yT8FBHp52_VxcA2p7E3QanDinGoGz6RjfEpR3YoH35RrzBUwKZcuV0kvqTI0bpLbLZfHpsKbEsuVZrEao2Fu0WQEROpnGKrJGCxaT8bsy2QHhVfNd4TpurAhfqvXR4IrVblfJv25IzwFSae83mD5xwDsfeqfp4lNzNNgXL_rIAlOu64Cbex0vwMbMBYI2OhqxlBoaHGK__Ip9VE_V0iOuDYHGFi9Lblzip_cD7p1b0zmBp5lLH0nirNP8a94AkAHcC_prlj1N-lgTns2w24TLwJ9_4VgieLKMh7DxhmkNuxwjJtyfk0-TvoKCIlqgtOXOjK0cWX6BPlc_rj9HJu0lRcdbi6vn0D3-OCKU-fRH9hcGznjAQrI6pBHBQUnm7dwa3ICtcIVafmJ5a5DQw8-o5jEZmCIFkWPggVEIucFxLZ5Bo.%26bt%3Ddbl%26ch%3DAQEAEAABABTcN0DYro5jffse4SKIwjEfq8gUjN9haQs.%26v%3D2%26mac%3DAQEAEAABABSc9tlMJOBjQ_dSi6eVTZzWl6SMt657_MI."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABR4DVgrviCOldgPOcexXusOj17KjLX1AYw.%26dt%3D1695180298783"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Tue+Sep+19+2023+23%3A26%3A57+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=ce752745-6d9b-44f2-be61-08ead70b7abd&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

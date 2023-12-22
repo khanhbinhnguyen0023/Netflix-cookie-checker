@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1712501834",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEKtA9ZctKsOdR4sgr4mlebGB0MUhcth_56V8WMki6tHsebbf1Emnqqwy1mB5z333sz11WWdJ-_qme1RQdabirVZldKVaFZtWmXEtvAdE09yQQ0QrCexJa0IoEXNK8Lev09rnCMrg7m2_RswZwsqrFjNq6ucvNaEAsqwcY8iatSkLmaE3YpTdP3Hz8h3q5ARS9M0iAJccQDbMI4zEXyI3UNJHEeNKldo32o2M_VKPKeQEKGE_tcCckCmO3EttN4AWvSCmErf2Jepn9iUfZ-WFyj8SLCUe1CjQBLYTjSTJn1wXKXFcwGTsmaGgeUh3f7cOKU6eWmhWca-VLFNGC2ErSxTAIGq75ZKynZnikyPGDNykv-6fWD63zqpDJ4xlwOkHPaTj1grAKpGTxIMbL1GFvkyZ0LIiRVyhB6UUod4vY62c8XwhujZJxqryQgpWQxekUoS4t3xjcTX6tRlsgv6qLUWU1YIGSyiF1ODIJBxplIlYOiQODzt2ku_5f3gnOoXuHOuLDc-XWM0kD5FZLsWuhMcip2FupW_5zbC-esYIqybERElxszPIdmSG-zAztvRgUrxTEpl7NUgst813C8_T_7sJCb-G9qY4Q2GguR1SX4sJBb2MUI4wx1vxaJ64mrpD4gVQ%26bt%3Ddbl%26ch%3DAQEAEAABABRPC1JzWf88It2XGMeU-RA4pLNs9S1DOe4.%26mac%3DAQEAEAABABQVDsqAqrnScfHSnJMbtSWr4QR1aQZJkSo."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1712501834",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQt8cZPTiUI0MJFDqeNexP6uN6GsTwr-4k.%26dt%3D1680973035592"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1712501834",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEDomyjnnugecGkfTJUWYb4BgzktNPuNPXUqDPQl9STBrGwXTQK-xd450_-ZPIUveQalkoec5xM788IxWzXrAN72-VSBQiyebcucQ1wl1fQRGZ6JFOihTfHWevFx7NbUp2cYK3Q6Zn5UzGDVpsLH32amn"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1712544934",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sat+Apr+08+2023+23%3A55%3A34+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=9547116c-edc5-4936-8dbe-cd0fdd7b4e05&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

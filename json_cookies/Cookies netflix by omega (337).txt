@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1716833390",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEKOX5i_WRFYwSOlWzzU5YlKCUD0g1wNJise7js7WdWlUdhtE2tjyLwwKWJKyg-NHdaCfJ9--fc4fcCWMXWXH3Z4G4EgLRezg05vy-fGCbC6Aly-uKF1JQYFMxbdkIouVCdnqHoKExe5YIIKphlyoOAZ6IqpFOpNuXwDQCRI-KQvDDmuIzW-U3sJVOpvScad-TRC1_lYouVmTVNVmkllJXmfVMLR8h1rrNjzZyleQxgGAQHOI91Hmh_NrEximVvBC70QuHVP6L-hQ4pm21Utqt6iv9AzWvdaZVUxh6CE-SswWq2OdAkImWnmgooDeQ8uNYNfh3M2-f93n1SLMQo2GrYsvPYfbW8_up5MlTCu6wmJmnKHqCOQIeCmLqGaL_752gal5-e-gqAw4NyFfpXNTUxidgkJxHXtAcmL9iBJgww-KENQNXxkJykpV9Ws872-j2txwp9di2lPGSWYQjkLyzXK1dBN-bmu3Slm3LSjBzkJR4q9Q-DwTjRv3JibXmK6ILLZ9F4r6bO3_TzzvtHdVNb6olXS_424dKBvFOjcSaPZ2XJH5ptF-nw8VmSNdW0j-PEOygcQ8l8qY6ONwzFOEp9PLbV2sx272oNkokkPJ3Y7sORNPtsI6f2fY0VjCbTQ8CCoGkdIjSrIUGLcxL9rx34a2s9hcl4_WKZCrA9x2xopFOjdlVNsCkFT9Pi_5ERYhSBk_0EunPXwuHwYN1CWCw-ITCFhmLyle5_m8e4TXcP0TFu9rWmwg8zvi4mxJ5CYXCWBFhMqpo53UyG2Bks3_ZJDn1f4BU2j9K5PEV1cp_lNR8dc.%26bt%3Ddbl%26ch%3DAQEAEAABABQJsTzkOBktSAS6Y5kMl7gYeynymtyyICc.%26v%3D2%26mac%3DAQEAEAABABQr08ZJW_v8wKr0bU1sa-s21jBodDLo428."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1716835207",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sun+May+28+2023+21%3A40%3A07+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=29f56e26-36ba-48aa-adc7-55f69953c219&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1716833390",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTODWwXjSLG1jPoIzZU_lcaV2ODrSYxTTs.%26dt%3D1685297390316"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1715362355",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEJ36ED2aJyq0DgeazaqlSfNgT9Ix_yHSnux1GP2GlcJmybT3eJveNhXhY5ulrVgZTdDE9-6mm7Z8Tl-DjkSqoYibILzlMAM4toMWRBg5IESrdXkwNlG15PZLhVVND0QWwb3LKSlRhy6bOAL8vFHtC7h9"
+    }
+]

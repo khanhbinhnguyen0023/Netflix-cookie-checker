@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1711222383",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEGqLdOXZYl4Yd7DiEMPGLJuB0GFsAufn83f-rG8gPx9HYEFyom3EiInWtLOshnhkLApsB94w4HFm-X0yiz6uuN8djf7GVfX-1-7C3uPKr42L4rnY5ax1tJCOBxBLK3kXZX6WPF9X9NjFZYU79XJ7gsnlFqZ8Mn91Dx9ywnA9Om25rIe2RRLXnK9EqBx0-8b-8xpiJONn4uJEAHfBV_dT98d7h9LLDaYjTcHGDDOXTR-ODjYrN6zF742qjcjqOyelQGsnhuOoc8IUHFHxmUftmzz2kKfi1ukKGZ9v4qe84EtedBnF2zkkTj1I4n5MECRF1wvrhC3DWQmgaGk7q4Sm0xGUN5fMJMrk_OFXUfvhS8i8sz1BFUJIp1oySbvdn4Jq4pGpbFjfLnYbYd5SqW-SBJvzCK0oeIrXaUIzyFlPZbEjGsGGnzSc1vTEEc1MD-CnwLjkq0441lI52xih3ErwKrmEEZuYxb9LcGQTEJ0t8HAMAfhiCDhgG21gcgRzkx_Qw7ugVl18vvASz0hAkux17_2nvTC_kdKR8uOJDpp8bvKAHXM99pub2FjpzjkazPxa_VoA-laHEKI6Hhv6s0OWFvosG3vrcSXBJvrd6ONqBJzZMq6teRG_u8Ryo5brNKEUkS8F%26bt%3Ddbl%26ch%3DAQEAEAABABRX6LLwyW2Ia4nFeV2XjAF1gT5Do3mZgKI.%26mac%3DAQEAEAABABRavh7g9WZgL5H5urGYerTx8A-tcKPaSOA."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1711222383",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABS2oq07e8AQowtWX9PzHX8i9JlMeQVKHmE.%26dt%3D1679693576264"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1714246375",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1711222375",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEBM1TCBa8OTB8CnJjKu8vUdgYgkjw6YIKcaDbLupUio1DM9n-xeR4LkcHYWF9NhtQV-y6HfP_Y4Ieiz9hA-MS8RcI9QQzVLR_Qq4QS8g1EoGQ_14Kv168hpghnOKgyF75WJQdSCNsEJG171sLR3liRxt"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1711228098",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Fri+Mar+24+2023+17%3A08%3A18+GMT-0600+(Central+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=dff004f6-9e0b-4b82-97f3-fc255e405670&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

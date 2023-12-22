@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEO1AaZZE0Mbvbzt7Mc5w_DuB0L4M8jy-apC1NXej-1ED5sM7CBnc0c4F3KVqZFg0XqG6PwPsQxukNE7CT5K4mEugtilvo7NniiY8LRvbx080u-VPV28BtLm7ik7X8r8pn6X-9rw9g373Zg8xzZg21EmROwQL2mWBA3Fx5TZeTLo8TQNFPqC5nFs2jSgKqK31Nr55gE2iUlBxax0hiUhlRRzQWe-7Wb1GWBw7I8Tf5e-B_N157qw5vruAgHaHtgSRHDmiXjjWMzoOWxE45jueu9YV6Q6KqmUSfomIdh3yqvLNeM_gWEqiwaz5AwJnIiBhPpLTMWQUvqpfdaPPTv3U5E5iaoBVVyHDue2SwsqGbdK0j2u5xYgQUiVV3bAlfD8NAL6m1fttvFpeP1jlY6cHF1ZwCL0KDcgSRMTPg9q5NkR7bAM6MQfiegAJhvKqiz5Y0sKj0ddXpYcS7vEcoEOxvm3tDgrBHFM8DIByLnbVm61ETHs_7OV3uPGJhWrs8obXZgylZYaT_o7nXuvESMweWIhkaUVSSxy4Xdo-P9GYS3gMBVicvqxKfFR3OX_duFDx15DDz4rdGefGUsNALK6-fn59jEjZRfIq55tBNNQCFDHczJXIgVc47hvLowxpLAjuPIB6%26bt%3Ddbl%26ch%3DAQEAEAABABQw0KRv8cq4HgTCSCr3c3casmwWF9V5PJM.%26mac%3DAQEAEAABABRpqaWu3QqW_AiKLrXX7JQWcXgreYekk9A."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sat+Sep+02+2023+04%3A35%3A26+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=107fcde6-2ed5-4c83-b700-f3c664e559fa&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQ9cSpuyFg-gLJ7E_i6tysHKh44UMN4B0w.%26dt%3D1693604129040"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEGkn7wnr4saBr071MDXAPFxgV9h9nktiMGCM_k4QB2Rhrzdh1QO40YJ302XP0I_mk0iuYPoVqz_-iChetzfSPEKvv6YCC7Pt0EfWFZ1Lb6ii4dYglY7FwSKZENzmV4gM79UyaoKoFuo4or7QYnRW6ypP"
+    }
+]

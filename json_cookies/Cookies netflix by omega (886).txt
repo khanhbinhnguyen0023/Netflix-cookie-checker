@@ -1,0 +1,65 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1706267741",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEJK1gB2Jj1-nXlRW4yqHFAtg0icgiI2m-vI7SyCv1A9v0LGhxwSyQguJ8xTbiQ66EnTgsrKfF3kEv7HaPXbAQWlmUe4yBwOQlqc1kRaF3hamnIO4lfnn8PaQkTwNqgJduBdaC7q5ABnRhqgfFUztcaYG"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1707916852",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEIVPHdscKaA29vFvnwbmgy6CEAcIv7iM803c9Sui7TsBZvAdyzuJedJEsVo2JC16D8qBRcAdGMHdhv6Xa0l5oJ6f54h2qX16IHkEbh8ajM0XpK-Fe-K7D9kR0pl1V7iDCK5JnBTMuaUnyD_BXodWoDNXXRllUetBEpRbyDRn1-jCzECJ76_yAWwzKV5WiSI_JnEDd9jm8p3h35BBSxIDTQfrzlCemTIH-SqmywULGN-LRb0ecJIo4izX7YyoSjor1DzNVyE-1T7-Xu07yVxmgU7JJOZHyoN0MrdR6kg54KIADwqt4x0QpmsxeSG2zDriTESyJv-vYS1U08kA8XcchUMN6J903gjT4ZhkujdfP7UqPQ0MC_Rgj0YZTRiqYcUGSP0GPiUA9z8qKZ4mBQSywvkl0E1rdtCz3r1B_i4cxP9-qyl_77uyyB2QuSZb8qJowD0ogLrv2VE9NOatyiiXbk9Mn3jKZPNHZb9T0-tESI-ZY22j6THX6tIPUpyiGyxx58l1wiEzsPvS0su4hkS8-bxhOW6RBwcECOKjkSgJgllXalwBcKQGvHJzHxAZednD4zf1hlL6dLYt9Z-y2QTGND7YX_TT0j2m4BUdrVKSZ1Z0NIYxoQJwJAl_VKNqZCaddSgL5XFqsZf9jDw5xZGNlBWvk6DebjdqE9DOh-iHqN-PTBrAUeXvXcvM6GpU5OUWGDNvYDx8yvC3Qb6NF_C526ot3g..%26bt%3Ddbl%26ch%3DAQEAEAABABTkG4n_q4qIDsvzbe5yYKbIuvEow6JwVFs.%26v%3D2%26mac%3DAQEAEAABABQx5kwpCJliCZ3yUorKXPLo2TwGl7PZtfc."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1707916852",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQAqY9DRrxBKfIjoaZ1I4QGEhvGRln6QtI.%26dt%3D1676380849652"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1707928150",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Tue+Feb+14+2023+23%3A29%3A10+GMT%2B0700+(Western+Indonesia+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=13425fe4-115e-4ebf-820c-bba8f69bd925&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1684168149",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1707941847",
+        "name": "memclid",
+        "value": "b89fb843-aa7b-4230-9197-d062e4fdc51f"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1676427532",
+        "name": "profilesNewSession",
+        "value": "0"
+    }
+]

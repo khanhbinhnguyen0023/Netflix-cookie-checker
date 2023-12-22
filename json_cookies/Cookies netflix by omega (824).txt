@@ -1,0 +1,110 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEOsNxxHTv7ztsbdpayzHyBRgKxnzVNjxstiOM2UvrjLmUTUQhleg3UvXIlixEWDkLX0GNijQPBmPU2bsJFPSnC5iYk55PSKjuesvcoitEpdVjIvl6fIJMGmmlpcNyitK4jkYAOmiBOxnwg_fseUX4jLm"
+    },
+    {
+        "domain": "about.netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "next-i18next",
+        "value": "pt-pt"
+    },
+    {
+        "domain": "about.netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nflx-region",
+        "value": "br"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "_ga",
+        "value": "GA1.1.395401101.1694956084"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "hasSeenCookieDisclosure",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "netflix-sans-normal-3-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "netflix-sans-bold-3-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSTB5GbxsMQp6hbFkZ4JcIp64HDWylHAIw.%26dt%3D1694956091081"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEDXiBaoy6IdhWWKUj61zF1eB8BtN2C8y27fZ_QvwvvwG7iWrlZNz_gfblOLt9HinNOeeefO6JYUaNC9eS__K-cFNFFMYl2Up7XXzoZUyTAR9fqRaIzlpcySMDurcXwU94OLlMC1o0zKBnfWO-JHcWe8QPIUQ1kyU-yk--blcBzQe9FIdO1J0ltxPNTV2xF86NyU8N6sU8XPZQANIzIIqZsZjRmSmBJfiQWYBmABBX8t0SlXChUhChiYSkDapTrb4MWZePtSLoYwhTtONAAXRd1g0-mMcsiEtbTax7j4Hw_6BbJvoV9M041YPnrJJVru5hD-irYy23YyNl6cIiF-rWGHFygbPPbsx7M-bosgICh3JdhFELTwkaEVVWAl9A-R2CpOMQikcLta92dmn5tCKSRY26tz4XqDCuGwi2YV1cSUNaaV_WR3468hE-UXoVVhFwuxA80LPGh98Hs0vRwytoX0AujzYrUsV4Thm93khnrWx96fMUGVyCUXcu11GXBdX7O6a1iix9sVVhYCTdX2mrwMum6k1SBjaj1csoH3SmG5qVAC1HRXysthQAMkgDjfgdppeq7vMySsJkwUShAtmQVlDRq-Ve1-E_7uC5ggKtcHlnnBphhSpPLPaQv1aBMkusGEqmc9vlRdA1-fGHfekIi-lJ1RHgF5IQWQVKA5QAEsLIB4.%26bt%3Ddbl%26ch%3DAQEAEAABABRtPEXHRJSL-3AOhfiWlO2Jlc6EPRdfbsU.%26v%3D2%26mac%3DAQEAEAABABRWCeWctadqa9uReQtR8XTsxJtFvNtAu4I."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sun+Sep+17+2023+10%3A08%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=9ac4a00c-3843-4c69-b954-9e6c39b09e72&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "_ga_97ES2RWR2T",
+        "value": "GS1.1.1694956083.1.1.1694956155.60.0.0"
+    }
+]

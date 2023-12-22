@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEPMRgLfPlaDUQvM1au10vrGB4IFJycAVZSaE-sSviQNUen0raolSNVw3eKdtvbqA6BPCJAM0r8MtmZH23tww_Ms6o2YtKMFMe2duM_SlVIr3diTxglsLlPy62aGHezGgKXMcDrk_9TNPP2c7_g_9WRO1yp4J9Clkap9lL7axvnb90JMdzWXP5dYreCIWqWjh5-_b3zLGVsZwvE8HU7uQ6eW11emWcLa56pB2adnXUrwZmCZ7hvmbcgPC_iulJbS5Gd1UTsF_yakvQefn-EjGOip17i0VWwyXgnBrHP0erTvkapkyULgyktpFDTqgerVKvog0G8oYAn1wHLgnFvNnKHQ1HpkhjsjraA4DrpJFlBKtvEwdXz4gYl1Z7cYySdisS6N5xnQqiMx9Kox-dWvJm7bDGj9XY9OC4Tp-t5KGbK3xxwyEDhSGLS9SlCl0sj7OxdBnSoct86qB2pS3tD1mipq4BnekVzlIB4V2dCbU-xafiVV7Ip9a74RVRtpvcBqTmaQt_4WkX6LtASh9VoLYSa4CGTQERnD8IPaYKuk0z0Sf6CRQY99RYJonmoorcI4zjl1KuHngPevmg-Ai2DoYY1gWEj882GpdW9NuRO9qFW9cGTa69dGRw8QjLwfe67m6QHSRA0H0bC7zwLDYl6Dr6R2GVQ..%26bt%3Ddbl%26ch%3DAQEAEAABABRuneu5vVqikJVW7LGWUBzfGBNYX6nijfk.%26mac%3DAQEAEAABABQ1wPhiKuVBKLLKt9aKg-M8iAJ2Hu8KpIM."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sun+Jun+04+2023+14%3A28%3A45+GMT%2B0700+(Indochina+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=03a8000f-9689-480a-a880-bdc4a41ffe6b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRSQn3CGHOgE8RdOrzcpQb4t5O_lQzcSFI.%26dt%3D1685863727405"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEH8K7eyrEqA-VnFSBIQ927Jg2DOQ6fzs3qr0gZtuY6yWfVzWeJkw6GlXHKbDTphK4KyDgefKFj0l2gWETzANiPb9dyx0rf8nWbmMRFYIjbT95DhvgPxz-2dFD227Spmtjd_Y3dN6EH1nPFEAovY8zCD4"
+    }
+]

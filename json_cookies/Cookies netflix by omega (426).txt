@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEH44Ha5wEXtwdNQ3j-x74O1gT4lYbuXy8dRTuP79ct2BHIi4Oi0uNowuNIV2C7htBI4gy29JtRk0r7a8qYGCgBPRk78JHI0VDZeZOCDli4VQFEzGj1pU_jLRFdZrvC8zECgYOuqr29ypIA5DvwohLSTt"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEPD3djRxiqawB9qeovVi4FCB0CbWsseW6byKqTXi_QYJsB7VOOB8JF43vFyd6Awp0DlmokR5t5Cz7UgauXuIjJetY6Z0blUzAmfzB9j-iZ6AKbURbxoCVSohuWTJKTx6oZcOZMtG2R_WWsB8we_MYYVoeUcRR2t8JzKjmdp9nYDez6iaTw0bGaEwndweS5atNjSlwajOdeCPh1B__vy9X6KOC2h2MucCCnZ8GvfydXAhrnKOxG32HKUeZQITZu5PQhbirnm97FbZ_iImHwFTrL_cmGd6fauLL6UpepmuzxfbcMJNDwRVIwgvQd9ApzNd88uyxMgobwgXj423l3daR4UQWiVVC4g1fzzkx-cWsMaxHmyihDLd3YDA_4_YqeRFS-7FhQur0LUTlXXdxb_MNxbV0RZQg2A5JD0nWAWgL9FcfKfXUK2MlyIRODteW07dMAxNAcidyUu3WP3JfNnCSPTM20xcgnjWsPFbqB5kgGkS0Scfs1bhfP0RnewkIUABl8gRmZ3h_eemgxz7aCgyZE5q_noQZve0iK_iexw8x530lRrEMcbEmaZmRJvYaTwXDPvTP_Qbx0ClEBnnGqKY2BgJW6LUH1W5K9zxSRSHJxteTWMNCFBo0ELEgo46oyzk_4xN%26bt%3Ddbl%26ch%3DAQEAEAABABTqLRBzHglBoGITlCbKesW11XRoC8wrdbI.%26mac%3DAQEAEAABABSZinsIJbV0XL0xiqVCc5GU_3_Xmp2eTNQ."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Wed+Aug+30+2023+13%3A20%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=2f720a2b-eeb1-40c3-8b71-91477c625cf6&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABThq0CBSzy_oAJx14QADjgQl-UFzRsbMkU.%26dt%3D1693412422538"
+    }
+]

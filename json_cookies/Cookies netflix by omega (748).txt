@@ -1,0 +1,38 @@
+[
+    {
+        "domain": "..netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "cL",
+        "value": "1660840854555%7C166084084157460543%7C166084084154946582%7C%7C4%7Cnull"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEMd9Ep_CsO0q0U8M9lN6f-mCAGwYypLsl0FMTQs4rrnJPgWFtIM1awvSYAilcKeJ1vQKVUDBl33-ocRzdT8d65XdvEOrcwEeYO30wf95mGnXIIcHHz_2FFnhKZ1XHk_riTxDtJXddvU8kY0FZiMI7IPMNxJg3UU3UiTMiePgTvzi6B6mCc855L4wiD7S-S2ME7bbXEdW6BpdwbiUf-lIJ9t7FzPd2EkRXYBRLJDTGJ41H6TcZWR2urhNzUTRWpj-pav62LeQ49w8DwHj_VZNxJNL2HEsw9oaOxUkIH46udLKgePU4oSeRg8eO1uMwSIOsQFbcABQGh6hY5R2dNR0KyFHJP6jaDX-rGv7kJ2ZGTXuZVQDlMrFPHSFaSui7FT9F4qnEkiOmqEQjOHCTP4lNePvqVRhbwnvyQxs_Kz5-qAwnECv5XZo4Q6QiJvl4SrMW6j15xkeVGb0SFcKxRm_fS-H5ZBlSvnHxiqk1YHo_CTKK0MLsk9cVlYvnAr2ReYWRtOi9PS6o6caPVkyvUeFiMfKlVO0K2gZBt1yHPva3bWZB6fTVry75PW2PTKBO68CjfcGel5P_LFcJKpz-cDDP8l-gZaagLG0rJ6WEPF9fm6rgugdvjnLbHQpd_NJpOdsubnnGkOREMWHKqf_UEys4CIdpzdKhQtSsEoumBl35ozVPoy7hE7Ee_CUElhbLU3trVt9%26bt%3Ddbl%26ch%3DAQEAEAABABQm-f6K4giv1r6fL62646oqGpWcGpaDCeY.%26v%3D2%26mac%3DAQEAEAABABSfvBgDvEfXZ2ZUzQ3kdVOsSli7CQaOOJ8."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sat+Jun+24+2023+10%3A47%3A22+GMT-0400+(hora+est%C3%A1ndar+de+Paraguay)&version=202301.1.0&consentId=3d3072e0-8a9f-4042-9cef-097ed769c5bc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQ9oP6KhPux72wma2MCqx_8pzHwUpbe2PE.%26dt%3D1687618036097"
+    }
+]

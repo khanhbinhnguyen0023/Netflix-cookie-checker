@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEEiv80FPR49uRJoVxHFYuNVAg2s_kTSbO7bq6S8FVR22jJpcrs_DmYz34aff2r-km5vrEb-z_FPhf_vxM7vCkdU-zTbAiVRmDZo_W6rgjMufrg%3D%3D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEKKnT1wBBsQhDmnHL91fg56CUF1uizd6rbuyNJoAEjNP1zzBxrAHSQbUowt6pJQB-qW0idjoq2C4Gf3BMhqfgrYlskBIY6rVRQgOsIJvhtQfDQbDAVQAv0q4LjDbUTH557K7oEKx4ZnF0A4JjaeFukRAgkAU6TorvMDWGUDjF2kHRsM_UPanBpXrdjYZEQBk53sae3O03E-MrwuLSiC9Sgx3C5C1eZ4pO6TVPNiHmIdupDqOlC-993j-vrF099Vlk7HngBz6SUCy5bBKaTj3-vDc_CvsBTHtMBDpQ4Z0QsTzwiUmgxelrTi6jksyyqEBBuungrbXQyH1bUzXaO59rZoV-_gijPBtTHoVx7Ymbp8aupXEFpqhbe3bcjyT7AxxMwId0qdXc-RfJHJXEZuK0a3bfW9JW9eE9Tf4oIQF0t6i1Nmgny6agv0rSfMZFHgYywmlIeMDsAoLSIZKJrmHOM9mMZ0GNk72FveXDTR5lgIjwq45f8tf0FpGMfpv3AFdHJpUf6M8STXR9dQLjTH8fO9Lt-DUugILTw6Nl8iThhnzNqCpu0LiNuqIUd9s0QBFUEIX-IQt0KvDbbGndezmjLWHoKuebG4oQp6zanjIsP6vGth2UZLpNOz_zK3xbHiodX9zyP-PknXgL2V9SZaoIkGYVkpxArKG6l6Szk2kA_0kldLzu3WwOIsH8CffhMcuU9KDVo_sefSI7_7QZEXUaY23nGDSWw9un2N5eweRXqPF0hREE-rhaNIFJiGJbZgtpdE-ieZ0nPZe8eFcrSog6fGomFGuAvFgbO7jcXbsatyRITE.%26bt%3Ddbl%26ch%3DAQEAEAABABQxgOwqHTmehrg3JdtjDhP5-wB9Ts9_FcY.%26v%3D2%26mac%3DAQEAEAABABRuOcj2dcucmx6VPqWwwsAkPtEX4q7S0Zs."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Thu+Sep+07+2023+12%3A00%3A44+GMT%2B0500+(Pakistan+Standard+Time)&version=202301.1.0&geolocation=PK%3BPB&isIABGlobal=false&hosts=&consentId=c0370816-c617-42d3-921b-ecc8f4af9dff&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTvccdDk-kqiXkb3OHg6ZrULbMnE16_gWo.%26dt%3D1694060053621"
+    }
+]

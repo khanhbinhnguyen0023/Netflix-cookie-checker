@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1669581840",
+        "name": "memclid",
+        "value": "9ef4b155-a894-4362-87ca-193806168e26"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1644701781",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEFOAM6F3TbfT9wKTcGO3balgFst_m7JDm03C_qPdBtcStPYnDDWY66AgSUvW1MVa58XRnaprLAITnQSvGV3-B8qOj8U_4Bip07okdTLdQB9-AmmPCHOLSWhm_o1x5n1n4Nwcn0Gx1iKsqUovmp-ITI23"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1669581634",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRrnlMAAuEqrDRe8Vp9CWcZjsg7sg9G0Lg.%26dt%3D1638045621838"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1669581634",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEPuFnWtBduBi83ky8wPqf9mCYD778PwOYXcbgTpfWFCSeSudJEHE5OCu05wvPzUpuBdAqmzpjddnk_yYsZGXxmW3JAqJYUTtRsnr0WvhdwgBCImcZg-bf3HDGaxPmf9YlNzaczEB7l63l8Iwgixt9N0epAvqhLySJFbifNdGRJ9MbUCJKFtKmomPp9tOXDA_sSdGT9cvYq0P54l3Fb2Q4BreQkeTqUSkMETmdLX3CWcTQTnPICzi_P3LxKtXHKmRzcE5Rv73-33X4C6jmJ8cAgr2BkzoreL-duZm9BhFE-dDdMUxXDXx_6ym7_WtY2UVXmV0dYIbp48VkYocqxlqHXjQr9S6g9jnpXmnHpzhY9FwMj14kkIEeVw-It4A_bwHLWsA4v16QRWdWdTut_wokTzPypl-GNs_Om169aESirkwFXRvwNLeB6WuhkzJI-crTV77AxCSFZA14pW0lDwZoEYppBejmskiPm2fhepcEERfff_JfqR5pbNliJvwmGnhQaKMH0fKYMnB9fzrJehQHj9MuHEV4q5CmHTB1IQvy1z1CZ2ACIJALvsvhQ8FTL9twd4ZmB4kTzxrv2QBLPfHbY3Cb_aQ54HXYApeF8CPRpMI2MUJdU3_VJz-VrKpfHJAQGPQ2lLlhTIendAgk9M48KnBKuw9tJFEtDpKUMgI5PjuvCkwSLdEK9HRLfLe0zjpGhYm0uVg8sMBZ6G0m6ajCaRa0s0ifrlrLMsIK0sNUXWfj7m4GL4Pckq0Ag0jz_Y_JxX4b9Sn8_LXXaC_AvhIpdBo6u3Z5b7-YIztvA_5U2L0m1laqe2OOqsL22KCmNwgSbwJ%26bt%3Ddbl%26ch%3DAQEAEAABABTsXa9h-SMTYeYHm4AKDCfNSClDk3ZAzbQ.%26v%3D2%26mac%3DAQEAEAABABQryxsQNGL0G4X3uxrv8rTuvLeF5IP0U6E."
+    }
+]

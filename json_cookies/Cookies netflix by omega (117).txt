@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1726779247",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1723755247",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEIAs4o3le2G8aZugw6M89ulgBx5d8PCmh5RODden6CDihpklrAitdNh1pAAfIOk-h0agwJV8QUSCtbGnhMJ1aYal0LKorWejxvA-b8voIX93PPRJS0JR_r21ADoiETE1ZKVKE3ktZWFFAnak2__CaqTh"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1724923867",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEBraX45_ta2vtdn2GTj8L7WCUBALqPVQ3ygI6nQ9TM2r9Sy4vjmEaR7Y7DM7--T4BQH8PJ2_3-FAY9m1pzj6VxxV84D4t3B2WTNgNU0qr70Uq7MMs5l1b2_mUyco1lmSc7qX2TX-mDu2N0qiGjDO8ob6AHBfVj5z_4vmBo9OEyKG8FysP-ifD8UQ8QDbym1_HM21lRrH6sVNoESHq57KHK2NsLJr4LOGEbJynT58HiF15hyeZntVENgCG4DDmGWHSlGB3_RuenTtNyOo26UG0JTbl9jDk8DYRAtIfXVH_HZGzEZbyV2zolrko49oLbHpzeoHNGByLzos51f2feA4RNfXpFJFATqwHPnsTxqx2YjbwE1Vl_blRcjM_FbXibey6g4-9QCPow2LHN_YeNMjitqEiGvDa6a_uMmAiZbh8kSx47uhLRqYvV1ngAWch8CBmFAV1IAdte7nH7EDAOLLI43e3LUhNEmryEorChFcBr_F7AmC466rcqzN0ikN1Knat6_kZSJkK9Hdnp7N6KFObeeo2VLqPCbTFN_XcrR2ZiCGkrm0iMKDV36mMlKPj8Cow2e3c8I6Xf-8jKx77c4SEGadAChM1dvxDgLAG10Vvw6237pMRDaNi2exdtHU-rdPjSk-p9cdsJzUpDpDjVKJYvX1z46dvORQXzC2fAsatQb38Xbmb7_8DvLoZYQvVQaqao3CkfvHreez4Ol6Pa35QNKJ95tT9MMXsOydGzS_T8PDfqGBYOdvFI3ZHBvOTEdRGG9R6TNXuWZG1URWDNKwc0RPzyGnSuTxg8-RHGc5XHO2kAY.%26bt%3Ddbl%26ch%3DAQEAEAABABS4KKtQGhkcmB3BUoBVb4C0_oyVOpOAM_s.%26v%3D2%26mac%3DAQEAEAABABRWpiIwPiKG5_l0pSHDU71NfnSq53edkGg."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1724923871",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Wed+Aug+30+2023+11%3A31%3A11+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=6cbff2b4-8687-4f32-bb90-99a3311b01c1&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1724923867",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQ8MVLKsHAON2RsSe64C1Vo2OyA-3Wrhdg.%26dt%3D1693387868148"
+    }
+]

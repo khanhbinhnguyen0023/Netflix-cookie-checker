@@ -1,0 +1,101 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "memclid",
+        "value": "a4db4428-7c1e-459b-9e21-bea1f326aa57"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEAeuSfEhInox5u9LFIU7dLpgzIzNY4E-TfxF-eWZwtlGZRNSh4PxKf5Nzcctc1m_agLonlmMDBYOp3UiGKe14gKSvwcOOXBqVTdJZIy8U3FjKRZPJ3EBlB5yyXyykIx8daGt9piCGAx07W4L0jdvgeRI"
+    },
+    {
+        "domain": "secured.netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "thx_guid",
+        "value": "066a7efc7b362d943b7968b3e60dfa50"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEJ9YbcAr8EsFM-Fg_ZyhTBKCYOHZ0jG-dXAzgJgTz-zEbIfLrV8TIArIBOGnw-JYPUx54fEgkmm28NY0SH8BboNSVsPu52Tlj_P7fm80tyPU6SnPFmuOK0WDt7XqE_bLR5n_XEEgK1nFwAa9iVc-ycgj8alN8ZJFUydUAGfCzgwIdMiv61MEwe8b1_p9k2KnOGtDMTuRDiTP744nb_WpOjcMggf7HpRJuPwhTyQJNSVXRoc1UiaDaCy2dvagpeHlZtr-DuEI_uGGxvueLMvf1WWn4Us0LYXrZ7beB_OBnBZ_iv5YYPMgQx_5X2Mcj0OVm53ZxxJGa3vW0Jg-19gyTOpR7G-EQlLV9EfHHxwCZH5ifKHiNRqsD_pDsJk8zPWXtwZ85f3iiEDi6nDnnaszwgQ957OOaRplt2E99q_Ttr1l42wk0Xq7IC_IIpX35UpZUApy1XTvw5ovHafGSHha9jSz6-rL50RVwcDr9X7DAaZefSzykSMqAKbFMDVzqwq_L7iJWG8_k5MliLJPrZ2oaYYTtfAbabWa3jmXQyIRauxcDw5wgvDqmx5BOm2ZM7X2DbYjIKEiC7oVGcM6F3-calO2Ri_riVNqztocpnIa5XOhc29FQKQ9eDpMziEwCNU6XpUpHbOb5D_HrOGZ114sAH-6dyxNhH8-Axf2dinWN8ARK802dAgVip0R9lg5WX7UsMOMsu_9IvHmuLftPmX-R-hiZ-0v-Ex3MQk9cktzYaOHNXGI2eWKEGeS7jr280mPvatA0w3aae0o2pKKw1QK3TyhAro36oFsE1Kesp0eFuTBRXlkIVOOWNVYtC9t0H9XRXow%26bt%3Ddbl%26ch%3DAQEAEAABABRzcoal8-QffewjIwFOcEh31BdeLFKUa7Q.%26v%3D2%26mac%3DAQEAEAABABQbr7kwWiDWXIjRu5zK-FNW3OyS6U8eCoo."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSVzFdDp9n65ALiGHX-_Beycl4GXCstMuo.%26dt%3D1695290646285"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Thu+Sep+21+2023+17%3A31%3A32+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202301.1.0&consentId=a4dc5275-8a3b-423a-b9d3-2af9ebb864a3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "graphik-bold-1-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "graphik-normal-1-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "netflix-sans-bold-3-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "netflix-sans-normal-3-loaded",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    }
+]

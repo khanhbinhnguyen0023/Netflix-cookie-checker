@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEAqqJgxHWfdqTX2y4ricCXxgawSTD--aSckYWf0QzCNVTRH-txmDfTqogw11nlpWU04dHmQcmNS4DRoZ_E2fR2duRDk2_pf3dq92-gLijx21-_2G8au90dZ0hhOwa4nCoeoWNlng0NBf2l8W--SLfeBw"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEFO67s29L684JEK59GPHDF6CUNorrpt1hLcFj1YOgw7HfBEH-Z6M2wTd69f7hWGPHwKsQRKg7AbwFTcun9Eh6XwnOHiR6u3mztJQVcikLgYom3BV5XRUd3F-t94_0SG-7-CgqaBidlb_JuUdgFiGhtvoUPZ61kVro0JfUIiOaa3b0gABJmyTpzUGoOcd6cvIAn2CBn4iEtWMdl2_KY7UwFn_oeV-89GzU9YS0D9cn3_kfQnQ-FjFolx8TPOV_Sln-kp6CZGKyAF9CIdTKcIRKKnE3pe9qOguzTbTyPuU_IUO1uQuonDV2-zJpSTEpuAaCXQnWyJuFOAE98qWG9ZFC3sSyvzY4GohXOh1SsYfCws-R-LfTCfVlnTLbvP3MvudbvMw1L4hkVqmQUvNi_lce0mujsgdhNgv4irpVKc4mraEbCqhTElUkcjubkQcKgg4XNv6XMNZFZ5MPRykZ7-PPOc1oss0e3w3VSYJWfOel4I_NPRR5jBBOHs1vl3L4XqijoxipyGeD9VR9vhhOY4zPpDI73J1koxK9ihVt5n852MPp8j9oUPBhQyfZIYuXs-DiTHu-L2sUrp9bZAm9WV-7xJVaQ3M61jZ1-M7AgKnJiKMc88dMN67a_VTqUn0QLR4Kub6BYqT94W_zveR8YxTg6VOOQOdY1oTK3-xzWUFlfOJD-A9ROdATd9_v0c56atAxkkXgftwzeGBCLhFOJIgLNoA3KdVKNLMs2FMwWEXZ63qLxhfiYPHGEQQJ5W6IRNbC_aE4Bh2g1lKMW4APZ-w02-lacfFqLZY_YgGX4e-ToS0fVU.%26bt%3Ddbl%26ch%3DAQEAEAABABSzRlJJFUgnsZiqu83gnN-p3EBcnd_-vSU.%26v%3D2%26mac%3DAQEAEAABABS405bpwcadattGP6TcyExx4Szkd_vSgXA."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSLHC-d5iV-SEAdi-H8-T_hjvGPwvsy1ZU.%26dt%3D1693551929478"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Fri+Sep+01+2023+19%3A26%3A47+GMT%2B0800+(Malaysia+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=fd0b7233-20fb-4bd8-95c3-7e1270001991&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

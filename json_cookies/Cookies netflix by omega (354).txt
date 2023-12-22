@@ -1,0 +1,92 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "didUserInteractWithPage",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEFOvMZKWiTqaO3YegPSO1Ypg3Gjh8dOULhVxBT8xWwmmbe_MJnmMW9TMhws_g4ngK5Dhqrs_7hJwLmZAxbwjZhIXmrOrjhVouWJOx6Ab-iRQVd-Gwi9bhTsKbWIh6EpCKNUgmE0IGbPUGFYjzFbVbLZM"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "memclid",
+        "value": "6d966378-4ff1-480d-a857-70de723142ea"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEBzDDb2hv9mjDvzJ-RHf8WWB8P0vZXzZkzJAvQ6cJ2EexBN2n-BSyVJPTnBhCaKe6I-lGEbrWcdQyPHSGgrp_IgPxgZYyf3Pp4eNNMzgOLuh2hcKkoAG43r140D3vpToK0V_mpZSFtQVQyOlEevJPro8Nh3g20nIETyP3EWzIwJL8AnW4ip_BFV07qfgtFrjxX7FXB3b4anAKyJOSYiZwtuRl-BVlxfyLj4e4a5qteRzVkbZ3ekofbbCE1GJ6q5JoehlQ_2s7y2QtXlaNJtOvZmZAGFIfAf3AU5T1Ti6_8QxCeG8nFAT7WgL8YQu1-xq3HsflbzzyCC2StmN1e9ZrGmbv4rhdQP8xds9_J650RgwnCWcbMDaJeeRfYs9k3w3o3xzzjKBhA8snR4cmryTukJFzFqYFSeLI-Gre_ZPq6lQ7FTweYFbNGA_dBImEA4x-f0YfTzq_vu4luLswsuEd7m2r9qpuQ7NHdaa5m88KkHJuYYZKXNlzjo1h4LatGReeyr962WMlcw-NUfHl3n_pZ9cfRxGOnvJvfO96y1bTgB0OL4S151U5RiyQ7jrxF35UdISOYi8XtuOncdkem_UorovBpynDYulOgthdcLZbZQcF-UY7dnJs-lKYp7v_gSvZUmNX7asTjvukWv6vRXhpZMyzv3zBsv12mz_v5jXTVn1r5o.%26bt%3Ddbl%26ch%3DAQEAEAABABTxK0VO0XPxQ4RnO0Pvm5p2oIlP_fEpRr4.%26v%3D2%26mac%3DAQEAEAABABRBwOTUTRqwA10eSktn7_vknZQLuRUsZtg."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Fri+Mar+31+2023+11%3A14%3A02+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=63d84560-c5dd-4341-9ccf-f340435161f0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTIecuHbKmiLb8PHZwoAdHBn4up9OVJAIg.%26dt%3D1680250443491"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "flwssn",
+        "value": "9d3191e8-291c-43f8-bcfa-293b9f6015a6"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "hasSeenCookieDisclosure",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "profilesNewSession",
+        "value": "0"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1694271897",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEC9IRTJfeYNGDBRnjHv01LGCUNrnNGRl2TELTyYvxRHbgqtnCcMGGzWPbI2c5LjekEqHn-N7qu8JSIXpgdVpfFgj_5Ew6_Ig4N41Xc5aLnnqqi5F7pzyJwsvvjWomOfh4RS3ST1mwKk2p_aj0ZG_Jzyu5C3Us2eubLH0UCT-tp7q4gyUK8_Ujay_vNFWpcmgLp4E2-FI1mqwFWuzpZKgc57JhnS-mE-lql6LUiGVZJXwooMuOoHJUdq6mSsNH8VXXiLadrdufGBWtJtPubZsajURdMI9Rhi7Cf_iooF497_Qf0KocwxDJcIFGzD4KkfHpo9Xzt-A4IwF5H_a4HPAbjz1VUc-cpCvPcVyu_00myCjlpZSRtAc44WOm5JEbEXJgTeZoP2NvTCzxZgAqmA291ZzdGCum89JsbUqgbjMWYc-iVfGVyjMy-t9b29fmw1Xm3QmNIjMsy4FUuTkGmJcuIifCwz-eowar_ZGrmCwJVZKdPCsuIQFyEBTIgUj2YsIZf6WFr1RWsztfZa_8dVRmzRAqX21cbvMfiPSw6g1bk45hc91J-YhqdUxHblFUKfQwqwn5SpO-qql0JI70byDqgdUaXW5tUbslRvDynokH7g5VDTk9sJSY1LA8e0Pts-uwkcibna88R7sgfYKdajCMOw7PwqV5qRVLZv_2nxzbVFg2oHZMPEHmdxYhtiPdA_dt_VslDuiirEe_60NpdYDy7d-i1Ovq7ivgNk-pWOtLoV0ie9n4c8dPywTAbCjHuzR5Iz9P2l99yHEUpfK9AIGXVtnGXCpi6QDBIo7HmlAOjiee4g.%26bt%3Ddbl%26ch%3DAQEAEAABABSh5GBb1v5uBHZItz9ki4PsTupkj-Pf3Cs.%26v%3D2%26mac%3DAQEAEAABABTJvd-bXIzjgk9jmNMIB-8VL7c_dXDwtfM."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1694271897",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTMjrnXlQ5wc4qR-aKOiINpL42UkdFUrmw.%26dt%3D1678719899077"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1694271897",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEFi1aNaqZN5yyayZEzcsFI5genuOkIopUb1XERfCqYs4HJ3EsW9rePgBkj5QbUTeoN9bOetT8-YMzsu4VACJAWAwdil6eN_Yh7b8OVq-yizrR5sDnKyZW3RnB05tZM_s7PKchEf2oyVMmWDYG6VbklST"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1694306205",
+        "name": "memclid",
+        "value": "cd0f5598-705a-47b3-b16e-76b16dff2c78"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1684436974",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2022-05-18T19:09:34.471Z"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1704549579",
+        "name": "_ga",
+        "value": "GA1.2.226842614.1669989579"
+    },
+    {
+        "domain": "about.netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1701525577",
+        "name": "next-i18next",
+        "value": "en"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1702663818",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEAaEvZwzJZvPImcsLzXFqhBgTD8CTY3CK6_-vU_bAUS6BwHToHQcrTlPLWstjuipdYHiw4XJNu7Y5DozgU9Zdyx9C6MftrtOvd2kXNKK2prMe8JfDy_AoK3I-HGZbZ5qqsEH_ENOPoLKmus5bazDG3op"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1708613956",
+        "name": "ajs_anonymous_id",
+        "value": "b3352ef6-2167-4f3e-a419-c016113ebaa7"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1708613956",
+        "name": "ajs_user_id",
+        "value": "hhThWuIFBJTe6nT3dxrLYpnXO4B2"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710275579",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEIrvypvwz9HcHbIQkwku1sKCYLFBHJyoQM4YgOxZ2DlCi4Hrw77v6Cu29nVBe3zPdHwoUfzwv5zQpjdp_-DjZdZSYJ4Y_s_zlx3jJzG4QJkb2TYUMkshQaD608ky0aoASDBX0mzHwU7b3xrO0hfvJVKjkgaUqHOHJlYoC0GHd1Kew0WAfvm0UAC1jILb3vYKZ-QXuSeD2zMKcpVbvC4nVAa_mSanoAhYZqVVb1a2jPGx9MXY0jY6GZjQ4fvGgRKqv-CuGBZv2O9VN6q68gSEbkODjjfgtDPLftGoLC6z2hxRVRBA9VWvX5VXxulmZxrtxKdUToP5tffWv-63zG_5QoPKQXpMyGZxM1DYXEI9MgTnrs8AGNVe0KKOGc4PgtgjvQQsHjRkuw83MoJvyCfBMadl-Ubcwi4EUTo6qvOmilX0IfuYNH5mCzJQ77lPZmTtcdQ0A31JEy4eSRPw2PrJUjE9FhyQuOPoBcQzAKlPXL2F6zvzx5HO3GfL73_Kqp1yejjfBEd1WTgZ6ScaxjVJTv0aLG8pgrVAEggeGSw4ir_IzBAY9q808OmO7oQUY6YOU2hG6hdvBrX8JhEiah2X8ByYYbKPFmGhR_OxfPXKpWFQY875DkSlLWlHBqJ4WFwaPtfuU6uZOeVC7cWYGihqVAdiXG7XI1qo3CcM1H4L17yiYFYEx5VfTDleOWyz-bsffEOk4QHZh2sI20aYdC7G7avC8ojcsS7Ac4x2ng0sE88U_uwoweGDaDA4GQ7eb1rKlVwmZVr_PXcYtPc02JzJDDpY5FSiThbXJJOTQBhEbFvIOcCiQNG94Y45RQZRr6Vh4dKX%26bt%3Ddbl%26ch%3DAQEAEAABABR05yAMa92ieGKtvs2ve-58jHAUYY9YLXY.%26v%3D2%26mac%3DAQEAEAABABTZMylkkglMVo084AFpu5oJ277rVeR26qk."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710275582",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Mon+Mar+13+2023+22%3A33%3A02+GMT%2B0200+(Eastern+European+Standard+Time)&version=202301.1.0&geolocation=EG%3BC&isIABGlobal=false&hosts=&consentId=1b7d2129-94fd-4228-8cd2-0c8f9e142891&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710275579",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQeOkVWY6dzzo8jEf-bhfRZTjqGn19_xkQ.%26dt%3D1678739577495"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1686515580",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710279388",
+        "name": "memclid",
+        "value": "ba527f07-1297-41ec-9f0d-abcb966467ba"
+    }
+]

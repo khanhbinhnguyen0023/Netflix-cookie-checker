@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1686314930",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEGdLw3Vy-98GJrJFP0u1ANVgiAjkX5lCHGzaywSi67l5RvhyBPRcmYwNtZFgEe-C1hBFfnN62V4u0rEuq9IxsLKvDu9kwArDTV3E0N17EZgCeFA5PFsPOlBCcIWtgkVF9JbZ8lr4GEYXTk5fdUHloPgg"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1687556391",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEGNmEDaoGEpS1KtI1YfL7g2CEB_WQ5FPl-n92vJ_m4wPARzyNdZ3-yiBySMxICpGAtZYVTeWmw-V6K6uKr-p4r2gm5J3gIYufkjj2krzj5tauV6Ua16g7OeKZ-LIDjwcrjklkBluyC_28fpyL0B8wqehpCRIbzOvkXecbZI6JVEDBBC_3OKohKRvq6vIuJjYpcTacdsdn0nM7HhiIxnoNbJN-g9VvOhYBcphwVbUgMNudulVns5XJUD5uuT-NGozhC7JnfowhUEROZzr5Imhfu0perSKrCcOtKeYaxGHK_mfa29zA4_Tlo_IglRSahiGCrMko0RER6l5HQxOPELlCOgtYM8GrY_hFdfiZIljSELXbRA8U4iNXi2OlkQHExwObCxbtfbQSIgpd8cg15wJSWIkCwmS_-P5G9Pq5GiUg0tv4-GWvXHWM00l4xPMwoy4IOA6yOQ5Xm4hcN_ICsn0I_ITKEjY4N_Dc5aJI1rlpjZUf5s3IXsQfB7oUGFk5_JSZQbUd8VUpUNCcdVLWHhlWePd3UMVxH2vHrqZ0m1ak6ooKA7mwamHV1jMwf3vZ1VBOEG_hlzpBWLtQ4qsy85G_rKgi0x1pQbmNzpNE9PffR6FG7wurseUoC28bY9u3b4891K-s_Sdeq9GhF7qaDATCV4l3LcHj1af29c7V4etMZRRXClTTLmZMlUcBnXu9jvxoxhH0Y42mF-EnduKXcx36OsDkQ..%26bt%3Ddbl%26ch%3DAQEAEAABABT6LN8skClzmSFS2hbFzmd8Zhoa8eWw8ZM.%26v%3D2%26mac%3DAQEAEAABABT0T3i9-jDLZkSdFXrMdgHYgDpFjgVGs9I."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1687556391",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSkeCSumyCdR7yY6aUPVxho5jmCFSRb_zU.%26dt%3D1672011591981"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1687556392",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1687556865",
+        "name": "memclid",
+        "value": "64dfe93b-7a26-48b0-8f7d-7b1871edf44c"
+    }
+]

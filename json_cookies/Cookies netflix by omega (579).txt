@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1673689555",
+        "name": "memclid",
+        "value": "7c6f656d-5f9a-45fc-a627-36e3757f3f4b"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1673679971",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEPTSAJjv4N7MbhMuONWfsIVgftMLG7SmRfu2ejwPYpIYWI02FZILFpO_YOpdNn63P3spZgcGBB0cRMH3GkzOTgvZnGwF0grRgDtWEr3t-AWhjNEmfi8PbdC40GsvD1cxzA4alEnzmm2hpS4S9G8lp804"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1673680060",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSbqR9y3HoD6LAsZxrwGaGKEcXf_aSV3FM.%26dt%3D1642144056325"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1673680060",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEBEPTV1jQXxV1xJlbFtmZe2B0MyL1CD9-1zcsi5EMEsyE6K1GvnLvaR307hHzjYYFC1RbC1F0d5Hl9JC5JRWfcM92V3apBXgJvYLpKLAutg61ZLmWYhd28oIHG2R_TCfdWJjYXkhnoJ0OBqO3cahKPn8gs3tPDQ0WbVnEqW6YlCSWoXqgistIOHjUEvHfEAX7JAtgsAz6xaMYfktvhBSrywrxRBf6c1B0WCVFWOYrmWcKtCbsNt6tWfd3scOV9Sg4GXnHYHGY4IyI_I-k9xZZX5HpUKXXly-EMxeDCQ_KR06DY3x3hFWkMnonDxau_Nmy4RsjjY_QEU2uGjw1Q1zAIFaiz8o3AzXzj2lPMUUOwnbUm0FlZvQM_QqLeE8gTgdq1GA_AnAnZ3Kxyy-DMc9sr4hwzYLXX37UzkJdywZW7YWvF6haNppFqGq2ZwlEgsBhFAt7j5A0_CPtNbj-AtRA2qgmU8BxEjCxlAx6PnpDjqULC6Pu-5FGTb6oO2H3r6Nh5ek8JShRm6RzX6JofJg6D9mh488KCSfMo9wBctftxc846qhyo40pyUgFOMs8gkWVB1w4FHiPRXk0ja7Q7xUQ90ghMxmZyCvVIoHX3q_CIohRDcbwPGBTAXAiGpYiewoQJ_r%26bt%3Ddbl%26ch%3DAQEAEAABABT1GVnFQZdxuTrsTblAdNfQwFi3nPZOiTE.%26mac%3DAQEAEAABABQ4bDoAV1gu5Y_8EakN-oBplRULCj-lFr8."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1673683321",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Fri+Jan+14+2022+12%3A02%3A01+GMT%2B0400+(Gulf+Standard+Time)&version=6.6.0&consentId=7809eaf5-dbef-44f3-b89e-e0f9ac081e87&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false"
+    }
+]

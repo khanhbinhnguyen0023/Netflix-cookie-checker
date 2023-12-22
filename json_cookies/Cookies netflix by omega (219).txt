@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1713101447",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEBUIuC2cHatc6uZha-L9OOdgPpdcfpRgRrKjD5x9rbR4LBCd9c9-G6JcSsfUd78uH39UqqzIc1M07ZS43MV-hnBdO1NhnhZRelr896rH4pLtks52tURSIm0v4fNGe76ezDc4biP43zJv1lyGxeP3xI2_"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1713754158",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEFisxY2TQ0lBWlO73ZI_AdWCYHCsrtl3ojRf5jfcw6_TUYqLKsxcksYptzQm31uLsEqjMDCSYmY_BD3l_31mJHNxTYaYD0HVDEL-Bz0mA7MnPZCAJ5iN0fo_SdNoEl2j3H4Rg5ExH4ZX3EkiEeLfLznAXW9S9f0ZMD7RQkQRgyuceTXE6M3XwyR4AaBkzEqFSD49UoWl9kkj6V0u1fDFhUloBUs_jXjnjF6P4DB16G3zR-fZUPqF646lC_BnPqALJAQJzwVqpdxhXvslG3qyXCX_taMojQaCXSQ7we8R_FP74F6kjclA1sfUBhb9ihrYtZVoX-cP-if4tRnndONEiun04jVGPgn5FWtvsp_-DrFZIelaJUj9SgCDTxnI2_LZyoy7XJyKPNqXTjsSd-PW-kePmh7NgQuM9GhmkyZPifrujtrepFYwe7dA85eL3SP-igWM1-jmUhnwEqaOWqziTLVD3ng8ugYcvd7D2hH_aninRzZzfuYKxdNBvFJSLeIbLsbegvYydv7xGNbymLP01Cs4VhJFuDigl0wE_ZsPxH-ip-pooLI1xauruJFHMvY7UxQpKs00SBpCGT_H8D0h6oTtedAvg3E0ECEjWAUomUO_TEKljnbaIEQwfgtc3YRK18JkTv6J1H4WRqRF5R8k4HRD17T71pB2rNThHGV-SJHOJPhuGlfrsvsd5mklT4vn41jWgrxbusZJXoEF0amOZm5awE30BHyyyEIocbXlAB_H1JMS793CdXwLr-1HCO4-DGsv4jDpAuty39qC2hIpoh5dz_YrtY5BjcJHr7tGO92G2bOx9iCzu9jNHFQ209v0zVfg%26bt%3Ddbl%26ch%3DAQEAEAABABRWEO8sir07vNP1dOhRXOKbh-9dMlEFmTQ.%26v%3D2%26mac%3DAQEAEAABABTuGiRlId2y9bEr-pz93Y_ewnYZVgog3ik."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1713754158",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQLW3JeGa3cKeGNInd0TAzEOCUaB044TS8.%26dt%3D1682225358385"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1713785203",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sun+Apr+23+2023+10%3A26%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=91985896-3f3d-4515-9050-c706b4bcce94&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "memclid",
+        "value": "9cbe56d0-951e-4b3a-964f-1e151bfb1039"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "nfvdid",
+        "value": "BQFmAAEBED_FhL5LMIFsvj7QSUC3cVVgnJ2HF_XgxLmVmHtwfJNu_kHW84RAbcifs9Zq6DFQ8WODRLKfBzHbnDGBb0VRTzT-Rur0XoDf8NkIS0eNEYksrldqAustYcE7CAUeTNMlxeIFf0kmRfaZUkSoUU_LGLtQ"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEGnNQAB5Z1y7TKNvyMPtTVSCUBFCweH4rHzk8JbDKrO-QrO3BBvUVDGskypm5qN7H9rKc_e3kV6IHaIrUzBXEajyX2-yy4XURA0_tOM1o3RRFkIx8aS3e_ZF1Te_QRe7lt6Daab4zJnREAiObXJXY7L9s5AOOmQ58a9YYPAGEuqiHgLA8TYhZxmkpkalrfcRQ5RRmHnei83bIRJUE8qctz9fcw_SBy0xrU662GKEvUbjKQYCHtlo5CBX6JW1FbMeO8b0qXfjhxRn8zbqdd1BsWapjagxaqaDCyzLTW21y06JryuAPwJ3ycDrXapD3rfMbpq6rWC3GuNa5NZTUCVSAbafLk8RXxluZwJnc_AbocBLW-kzXZTRhnM9y2AXIshkV4Vn5a358oHF5UI83aHI-SmEJeUO6c4N00_wQ_1AUo_X7U-nNDSV0k8uQXN37R3ctLRSO5oGsTXXza1FotcI9HM-XO_rNkBmGyU15z7NG6PgLZjYrg7u52OMLC-8jilz-iaGu3wlLgRAr1Z61R8AfDNcHwLUgGpv4YCWUPAAgEjFkgBBJo2tBceSHCo5JvYV6eO7NEA8kGcxjElo-i2fuRy7Mo3yE8FabgWJSiKIIv99MSOyRGpfIytVSj8mdbOey25D_FgjTri2UTUh4n1hmb1MA-E_CwSCfz87BTmGB86ZUjC5UYFex5ojWnEjCtO1Sbh-GHSVh0Yt2qSpPTD_5HltH5XxyLA1i5NnLIngt-VLLKaFlef0uWP09fvrmaH4pRdZremAu6lSfF2vacCGm-ROKE2OM2PZQAcDfVLU6QD0DlY.%26bt%3Ddbl%26ch%3DAQEAEAABABSVYfPxh961uN2atwm4PhgZUVarsZkIhWY.%26v%3D2%26mac%3DAQEAEAABABRbbbR6cEcZDQfhMclkWk0aD4Y-q-xNaBQ."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1733011200",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSGtOpMqRBMjdFNw1CJXPvMLJHWhC58LhA.%26dt%3D1693540563542"
+    }
+]

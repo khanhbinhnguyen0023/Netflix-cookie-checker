@@ -1,0 +1,101 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "17105447690540065",
+        "name": "clSharedContext",
+        "value": "5b3b7123-bb52-4741-b3bd-de6071dac90a"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1683025467",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2022-05-02T11:04:27.617Z"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1687875758",
+        "name": "nfvdid",
+        "value": "BQFmAAEBELQDh5BW_WwYNaXr813Kzi5g4lMGcFJ83f2Ef_0dR3cz-iZFqRF-ppX7hqR6z58Oj3R0YlSPY1sMhmDHOj49euu9jimgDAFbuCvAJ_AM2tmKZv5DKxpUqxgIKGjMxplZBNpJt0ZwYoTCCkrcx8gPKcE5"
+    },
+    {
+        "domain": "..netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "17105447690716667",
+        "name": "cL",
+        "value": "1656339759423%7C165633974733659616%7C165633974754435531%7C%7C4%7Cnull"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710158951",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sun+Mar+12+2023+12%3A09%3A11+GMT%2B0000+(Greenwich+Mean+Time)&version=202301.1.0&consentId=d5aac67d-210a-40e3-81e5-27beb0c13121&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&geolocation=GB%3BENG&isGpcEnabled=0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710415894",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEGDztt5q61tVqdyg1En7HxOCYBGfymd3_YvNP8gOQY_WQIYjyEqNgzF9uOB9PVeOsUm-WJIdk_0T3fqgz9mRcgO6MSyQGCqWVLWZUnlqIQO2Dwu6zsBUv9cMGSEqzo4hZ-7nZbIhAp32hA-EyK38uwpYpcxtIianrixzjg897z-RipYIqBirLqz0Qt7LC3V_F5KpjH22GnpysleQkz8wEl53_c6LkMqP6HBot0SLQ2Bqr-C_PpoLZGqIBoIzouw9mXM1_DYabtyrV7gmyVqAddjzE6lSazSktiyrbvOyJW-Uju1hZc2hD9otk_xJ27C80FHo6J37VIy0kt5Pq3Q3D9b-BbpQ5UlrdPcpISKaUnHufaId1E8EWWBFoW4yPugBmuv76X59AV4toG6yp4lIxUiJjY_XeNc-a2NEgDJ_qcqPP2qM4i7pn8tfqfDKuUeEThJBFSaMiPjbpPV6cwYJzOLUvlGQ9nWmV6FAoSJy3Kqun0vwg1HpsK03uasSiHr_QzzZRAo72kHpJfjiHKi4tRc0McM4YiUHBCLThXETYPPBanW5TPNSiztt1fUTAxsB7Wxumn5Jv378y14WZzn_W1jMtf368wDGBYVelW626OqZ7Z2IjlklYKV1-RNVTW408ErpzMgKwyJ0zkcaNLqnFFHOy3oJ0OJ8G2Rs6XadT4UsmpDGxdaHcUR_Ac-_ln2trFDpCAF3Z0b-es13A4vet2-uH_0F9yXX9jUNveODu61O3rHSi21pSuMzUdcoy-tW_bFA6UP2-GOSCNYVGfmm3RjnOjbbhIfbHlO1WxR-f72_xhddV9ABEUta6SLhkNXbW3YS%26bt%3Ddbl%26ch%3DAQEAEAABABRWaM796N5syNxuhNsxZtY8QOzuvWUf6Rw.%26v%3D2%26mac%3DAQEAEAABABTcT5ueeFye0HyWi3jbk8X2YrC2T3RuRbk."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710415894",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABR7qBjjF3CzwwsmZQTUnOcqnHnL5N8wSIQ.%26dt%3D1678879894262"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1713439893",
+        "name": "dsca",
+        "value": "customer"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1678890693",
+        "name": "flwssn",
+        "value": "162cf3ad-9a0b-46f8-96b4-1fba3ecdc7a5"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1686655893",
+        "name": "hasSeenCookieDisclosure",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1710415896",
+        "name": "memclid",
+        "value": "32ff3e7b-2fd5-4ad8-9f66-dc5a0d89e54e"
+    }
+]

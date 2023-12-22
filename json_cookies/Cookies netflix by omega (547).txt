@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1705085198",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEBKNctWHxEwrYy1OIY20-J9gLUmawNlD5oLYJBfhRclkgYRisOQ-ALymXjRPGhx0WFjuBYXPhx-zbFtDxT7pbn2UVps5vMoATmtLv24M9ndgiG4Z5T5vFi9mLLNIMHaVuKIg4kjiJxDzlqSJ9zTRZXzB"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1708366421",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEP0rQQvSx22LHcnG-nzOGwiB8CDzqbkzkLnD0sMybE17ZlESDPQYK1I_l7ZIVupc2F4uV2zGPsKn_6j_qMJ70BREGX-E3_YeuuAZnZ_nT1yeYES6Kitb6brE0FqF0bJG5c1zBvVRwt_ZLzdcV6XXkmuZdQe7f5wMrpn4XqndS9ZgRGUf1108KnX-2nXXKoHC9BG7uUBCDt4F1nPuGW6Zu9scR6vxEapSKra0DxwxN_FzInaUQ-6NdMZt4a9SqhcP_quhjd06LklZAwwliOX4BUB7j2K9oJjevLftGSceDXeUY4ZywIQHnQH5hXswtLujpGDUwlpEw56PCsbwJOhRptleoGHY9EezRRUpa-sN9UY1rL4HiuBw_mcZSEkmzCrID3yGAyvBMtdBJBJUbJSi5Aal7T1WmxtOlWT8xj8wX90jUDU-I2m8PYE_DOaL1xGAZPIyGL8ApDdM3-YNkHkG2W3NIotfGg0sa5ovcCre1g_AO-HYh8y_HF-ssNCofsIOLiDVi_2R1msVJaK_yG-vwrcCb7eHNN7eXpMpmlRAYlF8SyUHCsTgatRV9Vg-niG4vagWnXt0USoFmIz5rgd-eriZMHUdyuAfPlC6QslkdN8zLVvlbBfdRQsmviOFjKLdYNoqSDYJVbDn_ttiGFkjH4HlF30nKkH2FdRIINgHQ39Gtqg.%26bt%3Ddbl%26ch%3DAQEAEAABABSbKcY9__H7an05JdvVNBmvHhb38ZWOo0s.%26v%3D2%26mac%3DAQEAEAABABRjA5u4Qpf-yghvqknc0GcFPLfFHr5Y7M4."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1708366423",
+        "name": "OptanonConsent",
+        "value": "isGpcEnabled=0&datestamp=Sun+Feb+19+2023+21%3A13%3A43+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=751b63fc-1d61-4594-917e-8fb5bf08e927&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1708366421",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTnky3fcoKNuivTEF8uX_iaO3syUpgDr_I.%26dt%3D1676837621302"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1708371114",
+        "name": "memclid",
+        "value": "36ec4f91-0eef-4cdc-bc5e-2b7981d61b7a"
+    }
+]
